@@ -7,6 +7,10 @@ API_URL = (
     "https://api-v2.chuoichientv.net/v2/matches?type=hot&domain=bonglau&page=1&limit=100"
 )
 REFERER_URL = "https://lau06.bonglautv1.org/"
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like"
+    " Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
 
 # Ánh ánh các môn thể thao sang nhóm Tiếng Việt có icon
 SPORT_MAP = {
@@ -31,14 +35,7 @@ def parse_match_time(utc_str):
 
 
 def fetch_matches():
-  headers = {
-      "User-Agent": (
-          "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,"
-          " like Gecko) Chrome/120.0.0.0 Safari/537.36"
-      ),
-      "Referer": REFERER_URL,
-  }
-
+  headers = {"User-Agent": USER_AGENT, "Referer": REFERER_URL}
   req = urllib.request.Request(API_URL, headers=headers)
   try:
     with urllib.request.urlopen(req, timeout=15) as response:
@@ -55,7 +52,6 @@ def generate_m3u():
   m3u_lines = [
       '#EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"'
   ]
-
   count_streams = 0
 
   for match in matches:
@@ -63,22 +59,17 @@ def generate_m3u():
     sport_key = str(match.get("sport", "other")).lower()
     group_title = SPORT_MAP.get(sport_key, f"📺 {sport_key.capitalize()}")
 
-    # 2. Thông tin giải đấu & Đội bóng
-    league_name = match.get("league", {}).get("name", "Trực Tiếp")
+    # 2. Tên đội bóng
     home_team = match.get("teams", {}).get("home", {}).get("name", "Đội A")
     away_team = match.get("teams", {}).get("away", {}).get("name", "Đội B")
 
-    # 3. Logo (Ưu tiên Logo đội nhà -> Logo giải đấu)
+    # 3. Logo đội nhà / giải đấu
     home_logo = match.get("teams", {}).get("home", {}).get("logo", "")
     league_logo = match.get("league", {}).get("logo", "")
     logo_url = home_logo if home_logo else league_logo
 
-    # 4. Thời gian & Trạng thái
+    # 4. Thời gian trận đấu
     time_str = parse_match_time(match.get("matchTime", ""))
-    status = str(match.get("status", "")).lower()
-    status_tag = (
-        " 🔴[ĐANG PHÁT]" if status in ["live", "ht", "1h", "2h"] else ""
-    )
 
     # 5. Danh sách BLV & Luồng phát
     blv_list = (
@@ -99,32 +90,33 @@ def generate_m3u():
         if not stream_url:
           continue
 
-        # Định dạng tên hiển thị trên TiviMate
-        display_name = f"[{time_str}]{status_tag} {home_team} vs {away_team} - {league_name} (BLV: {blv_name} | {label})"
+        # Định dạng gọn nhẹ: Loại bỏ chữ [ĐANG PHÁT] và Tên giải đấu
+        display_name = (
+            f"[{time_str}] {home_team} vs {away_team} (BLV: {blv_name} |"
+            f" {label})"
+        )
 
-        # Thêm các thẻ chuẩn M3U / IPTV
+        # Nối Header Referer & User-Agent trực tiếp vào URL (Chuẩn tương thích ExoPlayer/TiviMate/OTT Navigator)
+        playable_url = (
+            f"{stream_url}|Referer={REFERER_URL}&User-Agent={USER_AGENT}"
+        )
+
         m3u_lines.append(
             f'#EXTINF:-1 tvg-name="{home_team} vs {away_team}" tvg-logo="{logo_url}"'
             f' group-title="{group_title}",{display_name}'
         )
         m3u_lines.append(f"#EXTVLCOPT:http-referrer={REFERER_URL}")
-        m3u_lines.append(
-            "#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64;"
-            " x64)"
-        )
-        m3u_lines.append(stream_url)
+        m3u_lines.append(f"#EXTVLCOPT:http-user-agent={USER_AGENT}")
+        m3u_lines.append(playable_url)
         count_streams += 1
 
   # Ghi ra file M3U
   with open("playlist.m3u", "w", encoding="utf-8") as f:
     f.write("\n".join(m3u_lines))
 
-  print(
-      f"✅ Đã tạo thành công playlist.m3u với tổng cộng {count_streams} luồng"
-      " phát."
-  )
+  print(f"✅ Đã tạo thành công playlist.m3u với {count_streams} luồng phát.")
 
 
 if __name__ == "__main__":
   generate_m3u()
-  
+    
