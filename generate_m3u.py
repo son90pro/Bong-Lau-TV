@@ -6,10 +6,26 @@ import urllib.request
 API_BASE_URL = "https://api-v2.chuoichientv.net/v2/matches"
 REFERER_URL = "https://live.chuoichien.tv/"
 
+# 1. Định nghĩa thứ tự ưu tiên các môn thể thao (Số nhỏ hơn lên trước)
+SPORT_ORDER = {
+    "football": 1,  # ⚽ Bóng Đá
+    "volleyball": 2,  # 🏐 Bóng Chuyền
+    "basketball": 3,  # 🏀 Bóng Rổ
+    "billiards": 4,  # 🎱 Bi-a / Billiards
+    "bida": 4,
+    "tennis": 5,  # 🎾 Quần Vợt
+    "badminton": 6,  # 🏸 Cầu Lông
+    "table-tennis": 7,  # 🏓 Bóng Bàn
+    "esports": 8,  # 🎮 Thể Thao Điện Tử
+}
+
+# 2. Bảng ánh xạ tên hiển thị
 SPORT_MAP = {
     "football": "⚽ Bóng Đá",
     "volleyball": "🏐 Bóng Chuyền",
     "basketball": "🏀 Bóng Rổ",
+    "billiards": "🎱 Bi-a",
+    "bida": "🎱 Bi-a",
     "tennis": "🎾 Quần Vợt",
     "badminton": "🏸 Cầu Lông",
     "table-tennis": "🏓 Bóng Bàn",
@@ -59,6 +75,11 @@ def fetch_all_matches():
     if m_id and m_id not in seen_ids:
       seen_ids.add(m_id)
       combined.append(match)
+
+  # Sắp xếp danh sách trận đấu theo thứ tự môn thể thao ưu tiên
+  combined.sort(
+      key=lambda m: SPORT_ORDER.get(str(m.get("sport", "other")).lower(), 99)
+  )
 
   return combined
 
@@ -112,10 +133,10 @@ def generate_m3u():
             f' tvg-logo="{logo_url}" group-title="{group_title}",{display_name}'
         )
 
-        # 2. Thẻ Referer chuẩn cho VLC Player
+        # 2. Thẻ Referer cho VLC Player
         m3u_lines.append(f"#EXTVLCOPT:http-referrer={REFERER_URL}")
 
-        # 3. Đường link tích hợp Pipe Referer chuẩn cho TiviMate / OTT Navigator
+        # 3. Pipe Referer cho TiviMate / OTT Navigator
         tivimate_url = f"{raw_url}|Referer={REFERER_URL}"
         m3u_lines.append(tivimate_url)
 
@@ -124,7 +145,10 @@ def generate_m3u():
   with open("playlist.m3u", "w", encoding="utf-8") as f:
     f.write("\n".join(m3u_lines))
 
-  print(f"✅ Đã tạo playlist.m3u thành công với {count_streams} luồng phát.")
+  print(
+      f"✅ Đã tạo playlist.m3u thành công với {count_streams} luồng phát theo đúng"
+      " thứ tự ưu tiên."
+  )
 
 
 if __name__ == "__main__":
