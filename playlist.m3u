@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Germany vs Serbia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="⚽ Bóng Đá",[01:45 02/10] Germany vs Serbia (BLV: Chuối Chao | HD1)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-#EXTINF:-1 tvg-name="Germany vs Serbia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="⚽ Bóng Đá",[01:45 02/10] Germany vs Serbia (BLV: Chuối Chao | HD2)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-name="Germany vs Serbia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125455_9f31cc8f.png" group-title="⚽ Bóng Đá",[01:45 02/10] Germany vs Serbia (BLV: Chuối Chao | FHD)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8
-#EXTINF:-1 tvg-name="Greece vs Netherlands" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" group-title="⚽ Bóng Đá",[01:45 02/10] Greece vs Netherlands (BLV: Chuối Nhỏ | HD1)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-name="Greece vs Netherlands" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" group-title="⚽ Bóng Đá",[01:45 02/10] Greece vs Netherlands (BLV: Chuối Nhỏ | HD2)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8
-#EXTINF:-1 tvg-name="Greece vs Netherlands" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" group-title="⚽ Bóng Đá",[01:45 02/10] Greece vs Netherlands (BLV: Chuối Nhỏ | FHD)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8
-#EXTINF:-1 tvg-name="Denmark vs Portugal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" group-title="⚽ Bóng Đá",[01:45 02/10] Denmark vs Portugal (BLV: Trốc Tru | HD1)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-name="Denmark vs Portugal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" group-title="⚽ Bóng Đá",[01:45 02/10] Denmark vs Portugal (BLV: Trốc Tru | HD2)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-name="Denmark vs Portugal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" group-title="⚽ Bóng Đá",[01:45 02/10] Denmark vs Portugal (BLV: Trốc Tru | FHD)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-name="Denmark vs Portugal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" group-title="⚽ Bóng Đá",[01:45 02/10] Denmark vs Portugal (BLV: Chuối Lá | HD1)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
-#EXTINF:-1 tvg-name="Denmark vs Portugal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" group-title="⚽ Bóng Đá",[01:45 02/10] Denmark vs Portugal (BLV: Chuối Lá | HD2)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-name="Denmark vs Portugal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125453_4487c0dd.png" group-title="⚽ Bóng Đá",[01:45 02/10] Denmark vs Portugal (BLV: Chuối Lá | FHD)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8
-#EXTINF:-1 tvg-name="Wales vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="⚽ Bóng Đá",[01:45 02/10] Wales vs Norway (BLV: Chuối Sấy | HD1)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
-#EXTINF:-1 tvg-name="Wales vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="⚽ Bóng Đá",[01:45 02/10] Wales vs Norway (BLV: Chuối Sấy | HD2)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-name="Wales vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="⚽ Bóng Đá",[01:45 02/10] Wales vs Norway (BLV: Chuối Sấy | FHD)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8
-#EXTINF:-1 tvg-name="Curaçao vs Trinidad and Tobago" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_190812ee.png" group-title="⚽ Bóng Đá",[05:00 02/10] Curaçao vs Trinidad and Tobago (BLV: Trốc Tru | HD1)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 tvg-name="Curaçao vs Trinidad and Tobago" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_190812ee.png" group-title="⚽ Bóng Đá",[05:00 02/10] Curaçao vs Trinidad and Tobago (BLV: Trốc Tru | HD2)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8
-#EXTINF:-1 tvg-name="Curaçao vs Trinidad and Tobago" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132742_190812ee.png" group-title="⚽ Bóng Đá",[05:00 02/10] Curaçao vs Trinidad and Tobago (BLV: Trốc Tru | FHD)
-https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8
 #EXTINF:-1 tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="🏐 Bóng Chuyền",[08:00 02/10] India vs South Korea (BLV: Chuối Kem | HD1)
 https://bonglau-proxy.sonnguyen90pro.workers.dev/?url=https%3A//gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
 #EXTINF:-1 tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="🏐 Bóng Chuyền",[08:00 02/10] India vs South Korea (BLV: Chuối Kem | HD2)
