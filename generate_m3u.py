@@ -4,7 +4,7 @@ import urllib.parse
 import urllib.request
 
 API_BASE_URL = "https://api-v2.chuoichientv.net/v2/matches"
-REFERER_URL = "https://lau06.bonglautv1.org/"
+REFERER_URL = "https://live.chuoichien.tv/"
 
 SPORT_MAP = {
     "football": "⚽ Bóng Đá",
@@ -103,21 +103,22 @@ def generate_m3u():
           continue
 
         display_name = (
-            f"[{time_str}] {home_team} vs {away_team} (BLV: {blv_name} |"
-            f" {label})"
+            f"[{time_str}] {home_team} vs {away_team} ({blv_name}) [{label}]"
         )
 
-        # Cú pháp Pipe chuẩn cho TiviMate: Đã mã hóa %20 cho toàn bộ khoảng trắng
-        pipe_header = (
-            "|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36"
-        )
-        playable_url = f"{raw_url}{pipe_header}"
-
+        # 1. Thẻ thông tin kênh
         m3u_lines.append(
             f'#EXTINF:-1 tvg-name="{home_team} vs {away_team}"'
             f' tvg-logo="{logo_url}" group-title="{group_title}",{display_name}'
         )
-        m3u_lines.append(playable_url)
+
+        # 2. Thẻ Referer chuẩn cho VLC Player
+        m3u_lines.append(f"#EXTVLCOPT:http-referrer={REFERER_URL}")
+
+        # 3. Đường link tích hợp Pipe Referer chuẩn cho TiviMate / OTT Navigator
+        tivimate_url = f"{raw_url}|Referer={REFERER_URL}"
+        m3u_lines.append(tivimate_url)
+
         count_streams += 1
 
   with open("playlist.m3u", "w", encoding="utf-8") as f:
