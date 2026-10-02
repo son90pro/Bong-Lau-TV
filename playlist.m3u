@@ -1,73 +1,109 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="🏐 Bóng Chuyền",[08:00 02/10] India vs South Korea (BLV: Chuối Kem | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="🏐 Bóng Chuyền",[08:00 02/10] India vs South Korea (BLV: Chuối Kem | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="🏐 Bóng Chuyền",[08:00 02/10] India vs South Korea (BLV: Chuối Kem | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Qatar vs Thailand" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" group-title="🏐 Bóng Chuyền",[11:00 02/10] Qatar vs Thailand (BLV: Chuối Tây | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Qatar vs Thailand" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" group-title="🏐 Bóng Chuyền",[11:00 02/10] Qatar vs Thailand (BLV: Chuối Tây | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Qatar vs Thailand" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" group-title="🏐 Bóng Chuyền",[11:00 02/10] Qatar vs Thailand (BLV: Chuối Tây | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Pakistan vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="🏐 Bóng Chuyền",[14:00 02/10] Pakistan vs Iran (BLV: Chuối Kem | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Pakistan vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="🏐 Bóng Chuyền",[14:00 02/10] Pakistan vs Iran (BLV: Chuối Kem | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Pakistan vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="🏐 Bóng Chuyền",[14:00 02/10] Pakistan vs Iran (BLV: Chuối Kem | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Thailand vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="⚽ Bóng Đá",[16:00 02/10] Thailand vs Philippines (BLV: Chuối Sấy | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Thailand vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="⚽ Bóng Đá",[16:00 02/10] Thailand vs Philippines (BLV: Chuối Sấy | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Thailand vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="⚽ Bóng Đá",[16:00 02/10] Thailand vs Philippines (BLV: Chuối Sấy | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (BLV: Chuối Ngao | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (BLV: Chuối Ngao | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (BLV: Chuối Ngao | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (BLV: Chuối Nhỏ | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (BLV: Chuối Nhỏ | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (BLV: Chuối Nhỏ | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Indonesia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="🏐 Bóng Chuyền",[17:00 02/10] Việt Nam vs Indonesia (BLV: Chuối Kem | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Indonesia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="🏐 Bóng Chuyền",[17:00 02/10] Việt Nam vs Indonesia (BLV: Chuối Kem | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Việt Nam vs Indonesia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="🏐 Bóng Chuyền",[17:00 02/10] Việt Nam vs Indonesia (BLV: Chuối Kem | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="🏐 Bóng Chuyền",[17:20 02/10] Japan vs China (BLV: Chuối Tây | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="🏐 Bóng Chuyền",[17:20 02/10] Japan vs China (BLV: Chuối Tây | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="🏐 Bóng Chuyền",[17:20 02/10] Japan vs China (BLV: Chuối Tây | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Congo DR vs Uganda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_10d04719.png" group-title="⚽ Bóng Đá",[19:00 02/10] Congo DR vs Uganda (BLV: Chuối Lá | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Congo DR vs Uganda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_10d04719.png" group-title="⚽ Bóng Đá",[19:00 02/10] Congo DR vs Uganda (BLV: Chuối Lá | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Congo DR vs Uganda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_10d04719.png" group-title="⚽ Bóng Đá",[19:00 02/10] Congo DR vs Uganda (BLV: Chuối Lá | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Kazakhstan vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 02/10] Kazakhstan vs Moldova (BLV: Chuối Chao | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Kazakhstan vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 02/10] Kazakhstan vs Moldova (BLV: Chuối Chao | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Kazakhstan vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 02/10] Kazakhstan vs Moldova (BLV: Chuối Chao | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Cyprus vs Armenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 02/10] Cyprus vs Armenia (BLV: Chuối Nhỏ | HD1)
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Cyprus vs Armenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 02/10] Cyprus vs Armenia (BLV: Chuối Nhỏ | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Cyprus vs Armenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 02/10] Cyprus vs Armenia (BLV: Chuối Nhỏ | FHD)
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Latvia vs Montenegro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" group-title="⚽ Bóng Đá",[23:00 02/10] Latvia vs Montenegro (BLV: Trốc Tru | HD1)
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Latvia vs Montenegro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" group-title="⚽ Bóng Đá",[23:00 02/10] Latvia vs Montenegro (BLV: Trốc Tru | HD2)
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
-#EXTINF:-1 tvg-name="Latvia vs Montenegro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" group-title="⚽ Bóng Đá",[23:00 02/10] Latvia vs Montenegro (BLV: Trốc Tru | FHD)
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36
+#EXTINF:-1 tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="🏐 Bóng Chuyền",[08:00 02/10] India vs South Korea (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="🏐 Bóng Chuyền",[08:00 02/10] India vs South Korea (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="India vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="🏐 Bóng Chuyền",[08:00 02/10] India vs South Korea (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Qatar vs Thailand" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" group-title="🏐 Bóng Chuyền",[11:00 02/10] Qatar vs Thailand (Chuối Tây) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Qatar vs Thailand" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" group-title="🏐 Bóng Chuyền",[11:00 02/10] Qatar vs Thailand (Chuối Tây) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Qatar vs Thailand" tvg-logo="https://media.chuoichientv.net/media/20260927_010537_85b5c41a.png" group-title="🏐 Bóng Chuyền",[11:00 02/10] Qatar vs Thailand (Chuối Tây) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Pakistan vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="🏐 Bóng Chuyền",[14:00 02/10] Pakistan vs Iran (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Pakistan vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="🏐 Bóng Chuyền",[14:00 02/10] Pakistan vs Iran (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Pakistan vs Iran" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_135226_b632be79.png" group-title="🏐 Bóng Chuyền",[14:00 02/10] Pakistan vs Iran (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Thailand vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="⚽ Bóng Đá",[16:00 02/10] Thailand vs Philippines (Chuối Sấy) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Thailand vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="⚽ Bóng Đá",[16:00 02/10] Thailand vs Philippines (Chuối Sấy) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Thailand vs Philippines" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132715_358dda20.png" group-title="⚽ Bóng Đá",[16:00 02/10] Thailand vs Philippines (Chuối Sấy) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (Chuối Ngao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (Chuối Ngao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (Chuối Ngao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Pakistan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[16:00 02/10] Việt Nam vs Pakistan (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Indonesia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="🏐 Bóng Chuyền",[17:00 02/10] Việt Nam vs Indonesia (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Indonesia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="🏐 Bóng Chuyền",[17:00 02/10] Việt Nam vs Indonesia (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Việt Nam vs Indonesia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="🏐 Bóng Chuyền",[17:00 02/10] Việt Nam vs Indonesia (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="🏐 Bóng Chuyền",[17:20 02/10] Japan vs China (Chuối Tây) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="🏐 Bóng Chuyền",[17:20 02/10] Japan vs China (Chuối Tây) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Japan vs China" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="🏐 Bóng Chuyền",[17:20 02/10] Japan vs China (Chuối Tây) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Congo DR vs Uganda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_10d04719.png" group-title="⚽ Bóng Đá",[19:00 02/10] Congo DR vs Uganda (Chuối Lá) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Congo DR vs Uganda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_10d04719.png" group-title="⚽ Bóng Đá",[19:00 02/10] Congo DR vs Uganda (Chuối Lá) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Congo DR vs Uganda" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132801_10d04719.png" group-title="⚽ Bóng Đá",[19:00 02/10] Congo DR vs Uganda (Chuối Lá) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Kazakhstan vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 02/10] Kazakhstan vs Moldova (Chuối Chao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Kazakhstan vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 02/10] Kazakhstan vs Moldova (Chuối Chao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Kazakhstan vs Moldova" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 02/10] Kazakhstan vs Moldova (Chuối Chao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Cyprus vs Armenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 02/10] Cyprus vs Armenia (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Cyprus vs Armenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 02/10] Cyprus vs Armenia (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Cyprus vs Armenia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 02/10] Cyprus vs Armenia (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Latvia vs Montenegro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" group-title="⚽ Bóng Đá",[23:00 02/10] Latvia vs Montenegro (Trốc Tru) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Latvia vs Montenegro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" group-title="⚽ Bóng Đá",[23:00 02/10] Latvia vs Montenegro (Trốc Tru) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Latvia vs Montenegro" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134253_26d0ea1f.png" group-title="⚽ Bóng Đá",[23:00 02/10] Latvia vs Montenegro (Trốc Tru) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
