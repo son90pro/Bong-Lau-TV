@@ -18,6 +18,7 @@ SPORT_MAP = {
 
 
 def parse_match_time(utc_str):
+  """Chuyển đổi thời gian từ UTC sang múi giờ Việt Nam (GMT+7)"""
   try:
     dt = datetime.datetime.fromisoformat(utc_str.replace("Z", "+00:00"))
     vn_time = dt.astimezone(datetime.timezone(datetime.timedelta(hours=7)))
@@ -27,6 +28,7 @@ def parse_match_time(utc_str):
 
 
 def fetch_matches_by_type(match_type):
+  """Lấy danh sách trận đấu từ API"""
   url = f"{API_BASE_URL}?type={match_type}&domain=bonglau&page=1&limit=100"
   headers = {
       "User-Agent": (
@@ -45,6 +47,7 @@ def fetch_matches_by_type(match_type):
 
 
 def fetch_all_matches():
+  """Lấy và lọc trùng danh sách trận đấu"""
   live_matches = fetch_matches_by_type("live")
   hot_matches = fetch_matches_by_type("hot")
 
@@ -96,7 +99,6 @@ def generate_m3u():
         label = stream.get("label", "HD")
         raw_url = stream.get("url", "").strip()
 
-        # Bỏ qua các link không phải luồng stream m3u8
         if not raw_url or not (".m3u8" in raw_url or "http" in raw_url):
           continue
 
@@ -105,19 +107,17 @@ def generate_m3u():
             f" {label})"
         )
 
-        # Gắn Pipe Header trực tiếp cho TiviMate / OTT Navigator
-        # TiviMate sẽ gửi đúng Referer và User-Agent này khi tải luồng & các file phân đoạn (.ts)
-        tivimate_url = (
-            f"{raw_url}|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0"
-            " (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like"
-            " Gecko) Chrome/120.0.0.0 Safari/537.36"
+        # Cú pháp Pipe chuẩn cho TiviMate: Đã mã hóa %20 cho toàn bộ khoảng trắng
+        pipe_header = (
+            "|Referer=https://lau06.bonglautv1.org/&Origin=https://lau06.bonglautv1.org&User-Agent=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64)%20AppleWebKit/537.36"
         )
+        playable_url = f"{raw_url}{pipe_header}"
 
         m3u_lines.append(
             f'#EXTINF:-1 tvg-name="{home_team} vs {away_team}"'
             f' tvg-logo="{logo_url}" group-title="{group_title}",{display_name}'
         )
-        m3u_lines.append(tivimate_url)
+        m3u_lines.append(playable_url)
         count_streams += 1
 
   with open("playlist.m3u", "w", encoding="utf-8") as f:
