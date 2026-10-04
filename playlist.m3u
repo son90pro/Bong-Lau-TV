@@ -1,31 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Consadole Sapporo vs Iwaki" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_f9072e21.png" group-title="⚽ Bóng Đá",[11:00 04/10] Consadole Sapporo vs Iwaki (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Consadole Sapporo vs Iwaki" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_f9072e21.png" group-title="⚽ Bóng Đá",[11:00 04/10] Consadole Sapporo vs Iwaki (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Consadole Sapporo vs Iwaki" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_f9072e21.png" group-title="⚽ Bóng Đá",[11:00 04/10] Consadole Sapporo vs Iwaki (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vegalta Sendai vs Jubilo Iwata" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" group-title="⚽ Bóng Đá",[13:00 04/10] Vegalta Sendai vs Jubilo Iwata (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vegalta Sendai vs Jubilo Iwata" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" group-title="⚽ Bóng Đá",[13:00 04/10] Vegalta Sendai vs Jubilo Iwata (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vegalta Sendai vs Jubilo Iwata" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" group-title="⚽ Bóng Đá",[13:00 04/10] Vegalta Sendai vs Jubilo Iwata (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Deren vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" group-title="⚽ Bóng Đá",[15:00 04/10] Deren vs Khovd (Chuối Ngao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Deren vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" group-title="⚽ Bóng Đá",[15:00 04/10] Deren vs Khovd (Chuối Ngao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Deren vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" group-title="⚽ Bóng Đá",[15:00 04/10] Deren vs Khovd (Chuối Ngao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Tegevajaro Miyazaki vs Omiya Ardija" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png" group-title="⚽ Bóng Đá",[17:00 04/10] Tegevajaro Miyazaki vs Omiya Ardija (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -116,3 +89,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Wales vs Denmark" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="⚽ Bóng Đá",[01:45 05/10] Wales vs Denmark (Chuối Tây) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Malaysia vs Việt Nam" tvg-logo="https://media.chuoichientv.net/media/20250902_193521_ec2f00c2.png" group-title="⚽ Bóng Đá",[16:00 05/10] Malaysia vs Việt Nam (Chuối Ngao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Malaysia vs Việt Nam" tvg-logo="https://media.chuoichientv.net/media/20250902_193521_ec2f00c2.png" group-title="⚽ Bóng Đá",[16:00 05/10] Malaysia vs Việt Nam (Chuối Ngao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Malaysia vs Việt Nam" tvg-logo="https://media.chuoichientv.net/media/20250902_193521_ec2f00c2.png" group-title="⚽ Bóng Đá",[16:00 05/10] Malaysia vs Việt Nam (Chuối Ngao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
