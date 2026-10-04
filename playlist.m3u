@@ -1,28 +1,118 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Argentina vs Burkina Faso" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" group-title="⚽ Bóng Đá",[07:00 04/10] Argentina vs Burkina Faso (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Argentina vs Burkina Faso" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" group-title="⚽ Bóng Đá",[07:00 04/10] Argentina vs Burkina Faso (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Argentina vs Burkina Faso" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" group-title="⚽ Bóng Đá",[07:00 04/10] Argentina vs Burkina Faso (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="USA vs Mexico" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" group-title="⚽ Bóng Đá",[09:00 04/10] USA vs Mexico (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="USA vs Mexico" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" group-title="⚽ Bóng Đá",[09:00 04/10] USA vs Mexico (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="USA vs Mexico" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" group-title="⚽ Bóng Đá",[09:00 04/10] USA vs Mexico (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Necaxa W vs Cruz Azul W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png" group-title="⚽ Bóng Đá",[10:10 04/10] Necaxa W vs Cruz Azul W (Chuối Kem) [HD1]
+#EXTINF:-1 tvg-name="Consadole Sapporo vs Iwaki" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_f9072e21.png" group-title="⚽ Bóng Đá",[11:00 04/10] Consadole Sapporo vs Iwaki (Chuối Kem) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Necaxa W vs Cruz Azul W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png" group-title="⚽ Bóng Đá",[10:10 04/10] Necaxa W vs Cruz Azul W (Chuối Kem) [HD2]
+#EXTINF:-1 tvg-name="Consadole Sapporo vs Iwaki" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_f9072e21.png" group-title="⚽ Bóng Đá",[11:00 04/10] Consadole Sapporo vs Iwaki (Chuối Kem) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Necaxa W vs Cruz Azul W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_143656_72f0bbb2.png" group-title="⚽ Bóng Đá",[10:10 04/10] Necaxa W vs Cruz Azul W (Chuối Kem) [FHD]
+#EXTINF:-1 tvg-name="Consadole Sapporo vs Iwaki" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_f9072e21.png" group-title="⚽ Bóng Đá",[11:00 04/10] Consadole Sapporo vs Iwaki (Chuối Kem) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vegalta Sendai vs Jubilo Iwata" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" group-title="⚽ Bóng Đá",[13:00 04/10] Vegalta Sendai vs Jubilo Iwata (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vegalta Sendai vs Jubilo Iwata" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" group-title="⚽ Bóng Đá",[13:00 04/10] Vegalta Sendai vs Jubilo Iwata (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vegalta Sendai vs Jubilo Iwata" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132410_e11644a1.png" group-title="⚽ Bóng Đá",[13:00 04/10] Vegalta Sendai vs Jubilo Iwata (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Deren vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" group-title="⚽ Bóng Đá",[15:00 04/10] Deren vs Khovd (Chuối Ngao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Deren vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" group-title="⚽ Bóng Đá",[15:00 04/10] Deren vs Khovd (Chuối Ngao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Deren vs Khovd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142515_21a2fe99.png" group-title="⚽ Bóng Đá",[15:00 04/10] Deren vs Khovd (Chuối Ngao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Tegevajaro Miyazaki vs Omiya Ardija" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png" group-title="⚽ Bóng Đá",[17:00 04/10] Tegevajaro Miyazaki vs Omiya Ardija (Chuối Chao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Tegevajaro Miyazaki vs Omiya Ardija" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png" group-title="⚽ Bóng Đá",[17:00 04/10] Tegevajaro Miyazaki vs Omiya Ardija (Chuối Chao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Tegevajaro Miyazaki vs Omiya Ardija" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132435_8f67a556.png" group-title="⚽ Bóng Đá",[17:00 04/10] Tegevajaro Miyazaki vs Omiya Ardija (Chuối Chao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Real Sociedad II vs Granada CF" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140020_f23143f4.png" group-title="⚽ Bóng Đá",[19:00 04/10] Real Sociedad II vs Granada CF (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Real Sociedad II vs Granada CF" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140020_f23143f4.png" group-title="⚽ Bóng Đá",[19:00 04/10] Real Sociedad II vs Granada CF (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Real Sociedad II vs Granada CF" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140020_f23143f4.png" group-title="⚽ Bóng Đá",[19:00 04/10] Real Sociedad II vs Granada CF (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Azerbaijan vs Lithuania" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_4cc808b5.png" group-title="⚽ Bóng Đá",[20:00 04/10] Azerbaijan vs Lithuania (Chuối Lá) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Azerbaijan vs Lithuania" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_4cc808b5.png" group-title="⚽ Bóng Đá",[20:00 04/10] Azerbaijan vs Lithuania (Chuối Lá) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Azerbaijan vs Lithuania" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_4cc808b5.png" group-title="⚽ Bóng Đá",[20:00 04/10] Azerbaijan vs Lithuania (Chuối Lá) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Kosovo vs Austria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" group-title="⚽ Bóng Đá",[23:00 04/10] Kosovo vs Austria (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Kosovo vs Austria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" group-title="⚽ Bóng Đá",[23:00 04/10] Kosovo vs Austria (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Kosovo vs Austria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" group-title="⚽ Bóng Đá",[23:00 04/10] Kosovo vs Austria (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Malta vs Andorra" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f2221751.png" group-title="⚽ Bóng Đá",[23:00 04/10] Malta vs Andorra (Chuối Sấy) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Malta vs Andorra" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f2221751.png" group-title="⚽ Bóng Đá",[23:00 04/10] Malta vs Andorra (Chuối Sấy) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Malta vs Andorra" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f2221751.png" group-title="⚽ Bóng Đá",[23:00 04/10] Malta vs Andorra (Chuối Sấy) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Greece vs Germany" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" group-title="⚽ Bóng Đá",[01:45 05/10] Greece vs Germany (Chuối Chao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Greece vs Germany" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" group-title="⚽ Bóng Đá",[01:45 05/10] Greece vs Germany (Chuối Chao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Greece vs Germany" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134302_98ea6afc.png" group-title="⚽ Bóng Đá",[01:45 05/10] Greece vs Germany (Chuối Chao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Netherlands vs Serbia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" group-title="⚽ Bóng Đá",[01:45 05/10] Netherlands vs Serbia (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Netherlands vs Serbia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" group-title="⚽ Bóng Đá",[01:45 05/10] Netherlands vs Serbia (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Netherlands vs Serbia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125507_424d6db0.png" group-title="⚽ Bóng Đá",[01:45 05/10] Netherlands vs Serbia (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Portugal vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="⚽ Bóng Đá",[01:45 05/10] Portugal vs Norway (Trốc Tru) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Portugal vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="⚽ Bóng Đá",[01:45 05/10] Portugal vs Norway (Trốc Tru) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Portugal vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="⚽ Bóng Đá",[01:45 05/10] Portugal vs Norway (Trốc Tru) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Portugal vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="⚽ Bóng Đá",[01:45 05/10] Portugal vs Norway (Chuối Lá) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Portugal vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="⚽ Bóng Đá",[01:45 05/10] Portugal vs Norway (Chuối Lá) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Portugal vs Norway" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125456_dde261ec.png" group-title="⚽ Bóng Đá",[01:45 05/10] Portugal vs Norway (Chuối Lá) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Wales vs Denmark" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="⚽ Bóng Đá",[01:45 05/10] Wales vs Denmark (Chuối Tây) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Wales vs Denmark" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="⚽ Bóng Đá",[01:45 05/10] Wales vs Denmark (Chuối Tây) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Wales vs Denmark" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134251_66ec2f9b.png" group-title="⚽ Bóng Đá",[01:45 05/10] Wales vs Denmark (Chuối Tây) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
