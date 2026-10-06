@@ -1,64 +1,46 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Cyprus vs Latvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 05/10] Cyprus vs Latvia (Trốc Tru) [HD1]
+#EXTINF:-1 tvg-name="Guatemala vs Suriname" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="⚽ Bóng Đá",[07:00 06/10] Guatemala vs Suriname (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Cyprus vs Latvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 05/10] Cyprus vs Latvia (Trốc Tru) [HD2]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Guatemala vs Suriname" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="⚽ Bóng Đá",[07:00 06/10] Guatemala vs Suriname (Chuối Sấy) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Cyprus vs Latvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134258_7f759e07.png" group-title="⚽ Bóng Đá",[23:00 05/10] Cyprus vs Latvia (Trốc Tru) [FHD]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Guatemala vs Suriname" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="⚽ Bóng Đá",[07:00 06/10] Guatemala vs Suriname (Chuối Sấy) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="France vs Belgium" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="⚽ Bóng Đá",[01:45 06/10] France vs Belgium (Chuối Ngao) [HD1]
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Honduras vs Jamaica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132740_23235379.png" group-title="⚽ Bóng Đá",[09:00 06/10] Honduras vs Jamaica (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Honduras vs Jamaica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132740_23235379.png" group-title="⚽ Bóng Đá",[09:00 06/10] Honduras vs Jamaica (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Honduras vs Jamaica" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132740_23235379.png" group-title="⚽ Bóng Đá",[09:00 06/10] Honduras vs Jamaica (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lam Dong vs Song Lam Nghe An" tvg-logo="https://media.api-sports.io/football/teams/28215.png" group-title="⚽ Bóng Đá",[15:30 06/10] Lam Dong vs Song Lam Nghe An (Chuối Ngao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="France vs Belgium" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="⚽ Bóng Đá",[01:45 06/10] France vs Belgium (Chuối Ngao) [HD2]
+#EXTINF:-1 tvg-name="Lam Dong vs Song Lam Nghe An" tvg-logo="https://media.api-sports.io/football/teams/28215.png" group-title="⚽ Bóng Đá",[15:30 06/10] Lam Dong vs Song Lam Nghe An (Chuối Ngao) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="France vs Belgium" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125447_e304fc82.png" group-title="⚽ Bóng Đá",[01:45 06/10] France vs Belgium (Chuối Ngao) [FHD]
+#EXTINF:-1 tvg-name="Lam Dong vs Song Lam Nghe An" tvg-logo="https://media.api-sports.io/football/teams/28215.png" group-title="⚽ Bóng Đá",[15:30 06/10] Lam Dong vs Song Lam Nghe An (Chuối Ngao) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Italy vs Türkiye" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="⚽ Bóng Đá",[01:45 06/10] Italy vs Türkiye (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Italy vs Türkiye" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="⚽ Bóng Đá",[01:45 06/10] Italy vs Türkiye (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Italy vs Türkiye" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125457_13158a72.png" group-title="⚽ Bóng Đá",[01:45 06/10] Italy vs Türkiye (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Ukraine vs Hungary" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125459_fd6a0e94.png" group-title="⚽ Bóng Đá",[01:45 06/10] Ukraine vs Hungary (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Ukraine vs Hungary" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125459_fd6a0e94.png" group-title="⚽ Bóng Đá",[01:45 06/10] Ukraine vs Hungary (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Ukraine vs Hungary" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125459_fd6a0e94.png" group-title="⚽ Bóng Đá",[01:45 06/10] Ukraine vs Hungary (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Northern Ireland vs Georgia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="⚽ Bóng Đá",[01:45 06/10] Northern Ireland vs Georgia (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Northern Ireland vs Georgia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="⚽ Bóng Đá",[01:45 06/10] Northern Ireland vs Georgia (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Northern Ireland vs Georgia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134252_884d8f9e.png" group-title="⚽ Bóng Đá",[01:45 06/10] Northern Ireland vs Georgia (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bosnia & Herzegovina vs Poland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f7c99abe.png" group-title="⚽ Bóng Đá",[01:45 06/10] Bosnia & Herzegovina vs Poland (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bosnia & Herzegovina vs Poland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f7c99abe.png" group-title="⚽ Bóng Đá",[01:45 06/10] Bosnia & Herzegovina vs Poland (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bosnia & Herzegovina vs Poland" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f7c99abe.png" group-title="⚽ Bóng Đá",[01:45 06/10] Bosnia & Herzegovina vs Poland (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Romania vs Sweden" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125501_5196f7ae.png" group-title="⚽ Bóng Đá",[01:45 06/10] Romania vs Sweden (Chuối Tây) [HD1]
+#EXTINF:-1 tvg-name="PVF-CAND vs Bóng đá Huế" tvg-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" group-title="⚽ Bóng Đá",[18:00 06/10] PVF-CAND vs Bóng đá Huế (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Romania vs Sweden" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125501_5196f7ae.png" group-title="⚽ Bóng Đá",[01:45 06/10] Romania vs Sweden (Chuối Tây) [HD2]
+#EXTINF:-1 tvg-name="PVF-CAND vs Bóng đá Huế" tvg-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" group-title="⚽ Bóng Đá",[18:00 06/10] PVF-CAND vs Bóng đá Huế (Chuối Tây) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Romania vs Sweden" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125501_5196f7ae.png" group-title="⚽ Bóng Đá",[01:45 06/10] Romania vs Sweden (Chuối Tây) [FHD]
+#EXTINF:-1 tvg-name="PVF-CAND vs Bóng đá Huế" tvg-logo="https://media.chuoichientv.net/media/20250817_040457_e299eb36.png" group-title="⚽ Bóng Đá",[18:00 06/10] PVF-CAND vs Bóng đá Huế (Chuối Tây) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Trường Tươi Đồng Nai vs Đồng Tháp" tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" group-title="⚽ Bóng Đá",[18:00 06/10] Trường Tươi Đồng Nai vs Đồng Tháp (Chuối Sấy) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Trường Tươi Đồng Nai vs Đồng Tháp" tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" group-title="⚽ Bóng Đá",[18:00 06/10] Trường Tươi Đồng Nai vs Đồng Tháp (Chuối Sấy) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Trường Tươi Đồng Nai vs Đồng Tháp" tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" group-title="⚽ Bóng Đá",[18:00 06/10] Trường Tươi Đồng Nai vs Đồng Tháp (Chuối Sấy) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
