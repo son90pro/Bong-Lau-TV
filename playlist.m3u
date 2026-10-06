@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Azerbaijan U21 vs Gibraltar U21" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145121_ba37c392.png" group-title="⚽ Bóng Đá",[20:45 06/10] Azerbaijan U21 vs Gibraltar U21 (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Azerbaijan U21 vs Gibraltar U21" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145121_ba37c392.png" group-title="⚽ Bóng Đá",[20:45 06/10] Azerbaijan U21 vs Gibraltar U21 (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Azerbaijan U21 vs Gibraltar U21" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145121_ba37c392.png" group-title="⚽ Bóng Đá",[20:45 06/10] Azerbaijan U21 vs Gibraltar U21 (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 06/10] Kazakhstan vs Faroe Islands (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 06/10] Kazakhstan vs Faroe Islands (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kazakhstan vs Faroe Islands" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134255_1b35202d.png" group-title="⚽ Bóng Đá",[21:00 06/10] Kazakhstan vs Faroe Islands (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="India vs Uruguay" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="⚽ Bóng Đá",[21:00 06/10] India vs Uruguay (Chuối Ngao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="India vs Uruguay" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="⚽ Bóng Đá",[21:00 06/10] India vs Uruguay (Chuối Ngao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="India vs Uruguay" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134311_eaf689af.png" group-title="⚽ Bóng Đá",[21:00 06/10] India vs Uruguay (Chuối Ngao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Russia vs Nigeria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134248_61eedfe7.png" group-title="⚽ Bóng Đá",[23:00 06/10] Russia vs Nigeria (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Russia vs Nigeria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134248_61eedfe7.png" group-title="⚽ Bóng Đá",[23:00 06/10] Russia vs Nigeria (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Russia vs Nigeria" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134248_61eedfe7.png" group-title="⚽ Bóng Đá",[23:00 06/10] Russia vs Nigeria (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Croatia vs Spain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125448_7dd16e8b.png" group-title="⚽ Bóng Đá",[01:45 07/10] Croatia vs Spain (Trốc Tru) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -80,6 +44,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-name="England vs Czech Republic" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125450_ce424b12.png" group-title="⚽ Bóng Đá",[01:45 07/10] England vs Czech Republic (Chuối Chao) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="St. Vincent / Grenadines vs Sint Maarten" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_15b7cc5d.png" group-title="⚽ Bóng Đá",[04:00 07/10] St. Vincent / Grenadines vs Sint Maarten (Trốc Tru) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="St. Vincent / Grenadines vs Sint Maarten" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_15b7cc5d.png" group-title="⚽ Bóng Đá",[04:00 07/10] St. Vincent / Grenadines vs Sint Maarten (Trốc Tru) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="St. Vincent / Grenadines vs Sint Maarten" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134321_15b7cc5d.png" group-title="⚽ Bóng Đá",[04:00 07/10] St. Vincent / Grenadines vs Sint Maarten (Trốc Tru) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Argentina vs Benin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132808_60e400eb.png" group-title="⚽ Bóng Đá",[06:00 07/10] Argentina vs Benin (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -98,12 +71,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTINF:-1 tvg-name="USA vs Canada" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_e67768f5.png" group-title="⚽ Bóng Đá",[07:00 07/10] USA vs Canada (Chuối Kem) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Novak Djokovic vs Alex de Minaur" tvg-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" group-title="🎾 Quần Vợt",[18:00 06/10] Novak Djokovic vs Alex de Minaur (Camry) [HD1]
+#EXTINF:-1 tvg-name="Mexico vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_1cfe2b5b.png" group-title="⚽ Bóng Đá",[09:30 07/10] Mexico vs Chile (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Novak Djokovic vs Alex de Minaur" tvg-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" group-title="🎾 Quần Vợt",[18:00 06/10] Novak Djokovic vs Alex de Minaur (Camry) [HD2]
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Mexico vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_1cfe2b5b.png" group-title="⚽ Bóng Đá",[09:30 07/10] Mexico vs Chile (Chuối Sấy) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/camryhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Novak Djokovic vs Alex de Minaur" tvg-logo="https://media.chuoichientv.net/media/20261006_001557_ebe51e99.webp" group-title="🎾 Quần Vợt",[18:00 06/10] Novak Djokovic vs Alex de Minaur (Camry) [FHD]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Mexico vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132737_1cfe2b5b.png" group-title="⚽ Bóng Đá",[09:30 07/10] Mexico vs Chile (Chuối Sấy) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/camryhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
