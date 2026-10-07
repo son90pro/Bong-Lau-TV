@@ -1,13 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Ceramica Cleopatra vs AL Masry" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_9aae3cbc.png" group-title="⚽ Bóng Đá",[00:00 08/10] Ceramica Cleopatra vs AL Masry (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Ceramica Cleopatra vs AL Masry" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_9aae3cbc.png" group-title="⚽ Bóng Đá",[00:00 08/10] Ceramica Cleopatra vs AL Masry (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Ceramica Cleopatra vs AL Masry" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130129_9aae3cbc.png" group-title="⚽ Bóng Đá",[00:00 08/10] Ceramica Cleopatra vs AL Masry (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="RB Bragantino vs Mirassol" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125541_3d20e7da.png" group-title="⚽ Bóng Đá",[05:30 08/10] RB Bragantino vs Mirassol (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
