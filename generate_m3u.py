@@ -1,17 +1,18 @@
 import datetime
 import json
+import ssl
 import urllib.parse
 import urllib.request
 
 API_BASE_URL = "https://api-v2.chuoichientv.net/v2/matches"
 REFERER_URL = "https://live.chuoichien.tv/"
 
-# 1. Định nghĩa thứ tự ưu tiên các môn thể thao (Số nhỏ hơn lên trước)
+# Thứ tự ưu tiên các môn thể thao (Số nhỏ hơn lên trước)
 SPORT_ORDER = {
     "football": 1,  # ⚽ Bóng Đá
     "volleyball": 2,  # 🏐 Bóng Chuyền
     "basketball": 3,  # 🏀 Bóng Rổ
-    "billiards": 4,  # 🎱 Bi-a / Billiards
+    "billiards": 4,  # 🎱 Bi-a
     "bida": 4,
     "tennis": 5,  # 🎾 Quần Vợt
     "badminton": 6,  # 🏸 Cầu Lông
@@ -19,7 +20,6 @@ SPORT_ORDER = {
     "esports": 8,  # 🎮 Thể Thao Điện Tử
 }
 
-# 2. Bảng ánh xạ tên hiển thị
 SPORT_MAP = {
     "football": "⚽ Bóng Đá",
     "volleyball": "🏐 Bóng Chuyền",
@@ -43,40 +43,55 @@ def parse_match_time(utc_str):
     return "LIVE"
 
 
-def fetch_matches_by_type(match_type):
-  """Lấy danh sách trận đấu từ API"""
-  url = f"{API_BASE_URL}?type={match_type}&domain=bonglau&page=1&limit=100"
+def fetch_matches_by_type(match_type=""):
+  """Lấy danh sách trận đấu từ API với SSL Bypass"""
+  if match_type:
+    url = f"{API_BASE_URL}?type={match_type}&domain=bonglau&page=1&limit=100"
+  else:
+    url = f"{API_BASE_URL}?domain=bonglau&page=1&limit=100"
+
   headers = {
       "User-Agent": (
           "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+          " (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
       ),
       "Referer": REFERER_URL,
+      "Accept": "application/json, text/plain, */*",
   }
+
+  # Thiết lập SSL context bỏ qua xác thực chứng chỉ lỗi
+  ctx = ssl.create_default_context()
+  ctx.check_hostname = False
+  ctx.verify_mode = ssl.CERT_NONE
+
   req = urllib.request.Request(url, headers=headers)
   try:
-    with urllib.request.urlopen(req, timeout=15) as response:
+    with urllib.request.urlopen(req, context=ctx, timeout=15) as response:
       data = json.loads(response.read().decode("utf-8"))
-      return data.get("matches", [])
+      matches = data.get("matches", [])
+      tag = match_type if match_type else "default"
+      print(f"ℹ️ API type='{tag}': Lấy được {len(matches)} trận.")
+      return matches
   except Exception as e:
-    print(f"⚠️ Lỗi API type={match_type}: {e}")
+    print(f"⚠️ Lỗi API type='{match_type}': {e}")
     return []
 
 
 def fetch_all_matches():
-  """Lấy và lọc trùng danh sách trận đấu"""
-  live_matches = fetch_matches_by_type("live")
-  hot_matches = fetch_matches_by_type("hot")
-
-  seen_ids = set()
+  """Gộp tất cả các nguồn trận đấu để không bị sót khi hết trận LIVE"""
   combined = []
+  seen_ids = set()
 
-  for match in live_matches + hot_matches:
-    m_id = match.get("_id") or match.get("externalId")
-    if m_id and m_id not in seen_ids:
-      seen_ids.add(m_id)
-      combined.append(match)
+  # Đọc lần lượt từ các nguồn type khác nhau
+  for m_type in ["live", "hot", "all", ""]:
+    matches = fetch_matches_by_type(m_type)
+    for match in matches:
+      m_id = match.get("_id") or match.get("externalId")
+      if m_id and m_id not in seen_ids:
+        seen_ids.add(m_id)
+        combined.append(match)
 
-  # Sắp xếp danh sách trận đấu theo thứ tự môn thể thao ưu tiên
+  # Sắp xếp theo ưu tiên môn thể thao
   combined.sort(
       key=lambda m: SPORT_ORDER.get(str(m.get("sport", "other")).lower(), 99)
   )
@@ -127,16 +142,12 @@ def generate_m3u():
             f"[{time_str}] {home_team} vs {away_team} ({blv_name}) [{label}]"
         )
 
-        # 1. Thẻ thông tin kênh
         m3u_lines.append(
             f'#EXTINF:-1 tvg-name="{home_team} vs {away_team}"'
             f' tvg-logo="{logo_url}" group-title="{group_title}",{display_name}'
         )
-
-        # 2. Thẻ Referer cho VLC Player
         m3u_lines.append(f"#EXTVLCOPT:http-referrer={REFERER_URL}")
 
-        # 3. Pipe Referer cho TiviMate / OTT Navigator
         tivimate_url = f"{raw_url}|Referer={REFERER_URL}"
         m3u_lines.append(tivimate_url)
 
