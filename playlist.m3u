@@ -1,13 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="CFR Cluj vs Universitatea Cluj" tvg-logo="https://media.chuoichientv.net/media/20260722_214708_c16acfba.png" group-title="⚽ Bóng Đá",[00:30 09/10] CFR Cluj vs Universitatea Cluj (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="CFR Cluj vs Universitatea Cluj" tvg-logo="https://media.chuoichientv.net/media/20260722_214708_c16acfba.png" group-title="⚽ Bóng Đá",[00:30 09/10] CFR Cluj vs Universitatea Cluj (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="CFR Cluj vs Universitatea Cluj" tvg-logo="https://media.chuoichientv.net/media/20260722_214708_c16acfba.png" group-title="⚽ Bóng Đá",[00:30 09/10] CFR Cluj vs Universitatea Cluj (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Santos vs Flamengo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125543_aea83401.png" group-title="⚽ Bóng Đá",[05:30 09/10] Santos vs Flamengo (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -35,12 +26,3 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Fortaleza EC vs Millonarios" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125541_aaf61ecc.png" group-title="⚽ Bóng Đá",[08:10 09/10] Fortaleza EC vs Millonarios (Chuối Kem) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Atletico Grau vs Cultural Santa Rosa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" group-title="⚽ Bóng Đá",[03:30 09/10] Atletico Grau vs Cultural Santa Rosa (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Atletico Grau vs Cultural Santa Rosa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" group-title="⚽ Bóng Đá",[03:30 09/10] Atletico Grau vs Cultural Santa Rosa (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Atletico Grau vs Cultural Santa Rosa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133902_e9e0b736.png" group-title="⚽ Bóng Đá",[03:30 09/10] Atletico Grau vs Cultural Santa Rosa (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
