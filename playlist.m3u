@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Hồ Chí Minh City W vs TKS Việt Nam Nữ" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150323_715237fc.png" group-title="⚽ Bóng Đá",[16:00 08/10] Hồ Chí Minh City W vs TKS Việt Nam Nữ (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hồ Chí Minh City W vs TKS Việt Nam Nữ" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150323_715237fc.png" group-title="⚽ Bóng Đá",[16:00 08/10] Hồ Chí Minh City W vs TKS Việt Nam Nữ (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hồ Chí Minh City W vs TKS Việt Nam Nữ" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_150323_715237fc.png" group-title="⚽ Bóng Đá",[16:00 08/10] Hồ Chí Minh City W vs TKS Việt Nam Nữ (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Phong Phú Hà Nam Nữ vs Hà Nội Nữ" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_f148dbb7.png" group-title="⚽ Bóng Đá",[16:00 08/10] Phong Phú Hà Nam Nữ vs Hà Nội Nữ (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Phong Phú Hà Nam Nữ vs Hà Nội Nữ" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_f148dbb7.png" group-title="⚽ Bóng Đá",[16:00 08/10] Phong Phú Hà Nam Nữ vs Hà Nội Nữ (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Phong Phú Hà Nam Nữ vs Hà Nội Nữ" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_f148dbb7.png" group-title="⚽ Bóng Đá",[16:00 08/10] Phong Phú Hà Nam Nữ vs Hà Nội Nữ (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Việt Nam vs Northern Mariana Islands U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[18:00 08/10] Việt Nam vs Northern Mariana Islands U17 (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
