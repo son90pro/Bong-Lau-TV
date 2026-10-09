@@ -1,13 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Kashiwa Reysol vs Vissel Kobe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" group-title="⚽ Bóng Đá",[17:00 09/10] Kashiwa Reysol vs Vissel Kobe (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kashiwa Reysol vs Vissel Kobe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" group-title="⚽ Bóng Đá",[17:00 09/10] Kashiwa Reysol vs Vissel Kobe (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kashiwa Reysol vs Vissel Kobe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" group-title="⚽ Bóng Đá",[17:00 09/10] Kashiwa Reysol vs Vissel Kobe (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Qingdao Jonoon vs Beijing Guoan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133507_568debdf.png" group-title="⚽ Bóng Đá",[18:35 09/10] Qingdao Jonoon vs Beijing Guoan (Chuối Kem) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
