@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Daejeon Citizen vs Jeonbuk Motors" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" group-title="⚽ Bóng Đá",[12:00 09/10] Daejeon Citizen vs Jeonbuk Motors (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Daejeon Citizen vs Jeonbuk Motors" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" group-title="⚽ Bóng Đá",[12:00 09/10] Daejeon Citizen vs Jeonbuk Motors (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Daejeon Citizen vs Jeonbuk Motors" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133954_6190ac3c.png" group-title="⚽ Bóng Đá",[12:00 09/10] Daejeon Citizen vs Jeonbuk Motors (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Incheon United vs Pohang Steelers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133956_078f66b7.png" group-title="⚽ Bóng Đá",[14:30 09/10] Incheon United vs Pohang Steelers (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Incheon United vs Pohang Steelers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133956_078f66b7.png" group-title="⚽ Bóng Đá",[14:30 09/10] Incheon United vs Pohang Steelers (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Incheon United vs Pohang Steelers" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133956_078f66b7.png" group-title="⚽ Bóng Đá",[14:30 09/10] Incheon United vs Pohang Steelers (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Persik Kediri vs Persepam Madura Utd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png" group-title="⚽ Bóng Đá",[15:30 09/10] Persik Kediri vs Persepam Madura Utd (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Persik Kediri vs Persepam Madura Utd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png" group-title="⚽ Bóng Đá",[15:30 09/10] Persik Kediri vs Persepam Madura Utd (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Persik Kediri vs Persepam Madura Utd" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134620_da259809.png" group-title="⚽ Bóng Đá",[15:30 09/10] Persik Kediri vs Persepam Madura Utd (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Johor Darul Takzim FC vs Penang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_4bfd7b04.png" group-title="⚽ Bóng Đá",[16:00 09/10] Johor Darul Takzim FC vs Penang (Chuối Ngao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Johor Darul Takzim FC vs Penang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_4bfd7b04.png" group-title="⚽ Bóng Đá",[16:00 09/10] Johor Darul Takzim FC vs Penang (Chuối Ngao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Johor Darul Takzim FC vs Penang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_4bfd7b04.png" group-title="⚽ Bóng Đá",[16:00 09/10] Johor Darul Takzim FC vs Penang (Chuối Ngao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Kashiwa Reysol vs Vissel Kobe" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132408_f7de4656.png" group-title="⚽ Bóng Đá",[17:00 09/10] Kashiwa Reysol vs Vissel Kobe (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
