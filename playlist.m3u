@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Colorado Rapids vs San Jose Earthquakes" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" group-title="⚽ Bóng Đá",[08:30 11/10] Colorado Rapids vs San Jose Earthquakes (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Colorado Rapids vs San Jose Earthquakes" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" group-title="⚽ Bóng Đá",[08:30 11/10] Colorado Rapids vs San Jose Earthquakes (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Colorado Rapids vs San Jose Earthquakes" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131607_798216b4.png" group-title="⚽ Bóng Đá",[08:30 11/10] Colorado Rapids vs San Jose Earthquakes (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club America vs Monterrey" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="⚽ Bóng Đá",[10:00 11/10] Club America vs Monterrey (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club America vs Monterrey" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="⚽ Bóng Đá",[10:00 11/10] Club America vs Monterrey (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club America vs Monterrey" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="⚽ Bóng Đá",[10:00 11/10] Club America vs Monterrey (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Gwangju FC vs Ulsan Hyundai FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_588cf309.png" group-title="⚽ Bóng Đá",[12:00 11/10] Gwangju FC vs Ulsan Hyundai FC (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Gwangju FC vs Ulsan Hyundai FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_588cf309.png" group-title="⚽ Bóng Đá",[12:00 11/10] Gwangju FC vs Ulsan Hyundai FC (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Gwangju FC vs Ulsan Hyundai FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133412_588cf309.png" group-title="⚽ Bóng Đá",[12:00 11/10] Gwangju FC vs Ulsan Hyundai FC (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kawasaki Frontale vs Nagoya Grampus" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_3fea3f62.png" group-title="⚽ Bóng Đá",[14:00 11/10] Kawasaki Frontale vs Nagoya Grampus (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kawasaki Frontale vs Nagoya Grampus" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_3fea3f62.png" group-title="⚽ Bóng Đá",[14:00 11/10] Kawasaki Frontale vs Nagoya Grampus (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kawasaki Frontale vs Nagoya Grampus" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_3fea3f62.png" group-title="⚽ Bóng Đá",[14:00 11/10] Kawasaki Frontale vs Nagoya Grampus (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Khatoco Khanh Hoa vs PVF-CAND" tvg-logo="https://media.chuoichientv.net/media/20250918_215520_259de84c.png" group-title="⚽ Bóng Đá",[17:00 11/10] Khatoco Khanh Hoa vs PVF-CAND (Chuối Ngao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
