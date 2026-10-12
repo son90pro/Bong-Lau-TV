@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Elfen Saitama W vs Albirex Niigata W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144231_da8a96df.png" group-title="⚽ Bóng Đá",[12:00 12/10] Elfen Saitama W vs Albirex Niigata W (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Elfen Saitama W vs Albirex Niigata W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144231_da8a96df.png" group-title="⚽ Bóng Đá",[12:00 12/10] Elfen Saitama W vs Albirex Niigata W (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Elfen Saitama W vs Albirex Niigata W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144231_da8a96df.png" group-title="⚽ Bóng Đá",[12:00 12/10] Elfen Saitama W vs Albirex Niigata W (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Guangzhou Dandelion vs Shanghai Second" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" group-title="⚽ Bóng Đá",[15:00 12/10] Guangzhou Dandelion vs Shanghai Second (Chuối Ngao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Guangzhou Dandelion vs Shanghai Second" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" group-title="⚽ Bóng Đá",[15:00 12/10] Guangzhou Dandelion vs Shanghai Second (Chuối Ngao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Guangzhou Dandelion vs Shanghai Second" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" group-title="⚽ Bóng Đá",[15:00 12/10] Guangzhou Dandelion vs Shanghai Second (Chuối Ngao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Phong Phú Hà Nam Nữ vs Ha Noi" tvg-logo="https://media.chuoichientv.net/media/20250903_205412_f148dbb7.png" group-title="⚽ Bóng Đá",[16:00 12/10] Phong Phú Hà Nam Nữ vs Ha Noi (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -35,6 +17,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Livyi Bereh vs Zorya Luhansk" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125804_1da6c1c7.png" group-title="⚽ Bóng Đá",[17:00 12/10] Livyi Bereh vs Zorya Luhansk (Chuối Kem) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Guangzhou Dandelion vs Shanghai Second" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" group-title="⚽ Bóng Đá",[15:00 12/10] Guangzhou Dandelion vs Shanghai Second (Chuối Ngao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Guangzhou Dandelion vs Shanghai Second" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" group-title="⚽ Bóng Đá",[15:00 12/10] Guangzhou Dandelion vs Shanghai Second (Chuối Ngao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Guangzhou Dandelion vs Shanghai Second" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140636_78e6132b.png" group-title="⚽ Bóng Đá",[15:00 12/10] Guangzhou Dandelion vs Shanghai Second (Chuối Ngao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Thái Nguyên Nữ vs Hà Nội Nữ" tvg-logo="https://media.chuoichientv.net/media/20250907_210026_2993064a.png" group-title="⚽ Bóng Đá",[18:00 12/10] Thái Nguyên Nữ vs Hà Nội Nữ (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
