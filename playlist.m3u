@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Al Sadd vs Al-Hilal Saudi FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_c56f6979.png" group-title="⚽ Bóng Đá",[23:00 13/10] Al Sadd vs Al-Hilal Saudi FC (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al Sadd vs Al-Hilal Saudi FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_c56f6979.png" group-title="⚽ Bóng Đá",[23:00 13/10] Al Sadd vs Al-Hilal Saudi FC (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al Sadd vs Al-Hilal Saudi FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130843_c56f6979.png" group-title="⚽ Bóng Đá",[23:00 13/10] Al Sadd vs Al-Hilal Saudi FC (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al Seeb vs Al Hussein" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130542_399a6e34.png" group-title="⚽ Bóng Đá",[23:00 13/10] Al Seeb vs Al Hussein (Chuối Ngao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al Seeb vs Al Hussein" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130542_399a6e34.png" group-title="⚽ Bóng Đá",[23:00 13/10] Al Seeb vs Al Hussein (Chuối Ngao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoingao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al Seeb vs Al Hussein" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130542_399a6e34.png" group-title="⚽ Bóng Đá",[23:00 13/10] Al Seeb vs Al Hussein (Chuối Ngao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoingaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lens vs Sporting CP" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" group-title="⚽ Bóng Đá",[23:45 13/10] Lens vs Sporting CP (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lens vs Sporting CP" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" group-title="⚽ Bóng Đá",[23:45 13/10] Lens vs Sporting CP (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lens vs Sporting CP" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_51812477.png" group-title="⚽ Bóng Đá",[23:45 13/10] Lens vs Sporting CP (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Sabah FA vs Slavia Praha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png" group-title="⚽ Bóng Đá",[23:45 13/10] Sabah FA vs Slavia Praha (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Sabah FA vs Slavia Praha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png" group-title="⚽ Bóng Đá",[23:45 13/10] Sabah FA vs Slavia Praha (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Sabah FA vs Slavia Praha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130531_4e687848.png" group-title="⚽ Bóng Đá",[23:45 13/10] Sabah FA vs Slavia Praha (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Arsenal vs Lille" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125547_ba273b85.png" group-title="⚽ Bóng Đá",[02:00 14/10] Arsenal vs Lille (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
