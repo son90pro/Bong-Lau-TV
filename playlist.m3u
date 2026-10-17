@@ -1,13 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Mirassol vs Internacional" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png" group-title="⚽ Bóng Đá",[06:00 17/10] Mirassol vs Internacional (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Mirassol vs Internacional" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png" group-title="⚽ Bóng Đá",[06:00 17/10] Mirassol vs Internacional (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Mirassol vs Internacional" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125544_da876ca4.png" group-title="⚽ Bóng Đá",[06:00 17/10] Mirassol vs Internacional (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Necaxa vs Atlas" tvg-logo="https://media.chuoichientv.net/media/20250920_011102_024ecd13.png" group-title="⚽ Bóng Đá",[08:00 17/10] Necaxa vs Atlas (Chuối To) [HD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -92,15 +83,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTINF:-1 tvg-name="Venezia vs Napoli" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png" group-title="⚽ Bóng Đá",[20:00 17/10] Venezia vs Napoli (Trốc Tru) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Union Berlin vs Borussia Dortmund" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="⚽ Bóng Đá",[20:30 17/10] Union Berlin vs Borussia Dortmund (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Union Berlin vs Borussia Dortmund" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="⚽ Bóng Đá",[20:30 17/10] Union Berlin vs Borussia Dortmund (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Union Berlin vs Borussia Dortmund" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="⚽ Bóng Đá",[20:30 17/10] Union Berlin vs Borussia Dortmund (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Brentford vs Liverpool" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125551_69278a74.png" group-title="⚽ Bóng Đá",[21:00 17/10] Brentford vs Liverpool (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -125,6 +107,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-name="Manchester City vs Ipswich" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125550_090f6609.png" group-title="⚽ Bóng Đá",[21:00 17/10] Manchester City vs Ipswich (Chuối Chao) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Union Berlin vs Borussia Dortmund" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="⚽ Bóng Đá",[20:30 17/10] Union Berlin vs Borussia Dortmund (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Union Berlin vs Borussia Dortmund" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="⚽ Bóng Đá",[20:30 17/10] Union Berlin vs Borussia Dortmund (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Union Berlin vs Borussia Dortmund" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125558_57d721ce.png" group-title="⚽ Bóng Đá",[20:30 17/10] Union Berlin vs Borussia Dortmund (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Strasbourg vs Paris Saint Germain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125516_94fa4514.png" group-title="⚽ Bóng Đá",[22:15 17/10] Strasbourg vs Paris Saint Germain (Chuối Lá) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
