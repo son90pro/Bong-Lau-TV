@@ -1,49 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Persebaya Surabaya vs PSS Sleman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_39c4ce6c.png" group-title="⚽ Bóng Đá",[15:30 18/10] Persebaya Surabaya vs PSS Sleman (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Persebaya Surabaya vs PSS Sleman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_39c4ce6c.png" group-title="⚽ Bóng Đá",[15:30 18/10] Persebaya Surabaya vs PSS Sleman (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Persebaya Surabaya vs PSS Sleman" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134617_39c4ce6c.png" group-title="⚽ Bóng Đá",[15:30 18/10] Persebaya Surabaya vs PSS Sleman (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="TP. Hồ Chí Minh vs Becamex Hồ Chí Minh" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="⚽ Bóng Đá",[17:00 18/10] TP. Hồ Chí Minh vs Becamex Hồ Chí Minh (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="TP. Hồ Chí Minh vs Becamex Hồ Chí Minh" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="⚽ Bóng Đá",[17:00 18/10] TP. Hồ Chí Minh vs Becamex Hồ Chí Minh (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="TP. Hồ Chí Minh vs Becamex Hồ Chí Minh" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="⚽ Bóng Đá",[17:00 18/10] TP. Hồ Chí Minh vs Becamex Hồ Chí Minh (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Udinese vs Lecce" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png" group-title="⚽ Bóng Đá",[17:30 18/10] Udinese vs Lecce (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Udinese vs Lecce" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png" group-title="⚽ Bóng Đá",[17:30 18/10] Udinese vs Lecce (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Udinese vs Lecce" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png" group-title="⚽ Bóng Đá",[17:30 18/10] Udinese vs Lecce (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bắc Ninh vs Trường Tươi Đồng Nai" tvg-logo="https://media.api-sports.io/football/teams/26601.png" group-title="⚽ Bóng Đá",[18:00 18/10] Bắc Ninh vs Trường Tươi Đồng Nai (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bắc Ninh vs Trường Tươi Đồng Nai" tvg-logo="https://media.api-sports.io/football/teams/26601.png" group-title="⚽ Bóng Đá",[18:00 18/10] Bắc Ninh vs Trường Tươi Đồng Nai (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bắc Ninh vs Trường Tươi Đồng Nai" tvg-logo="https://media.api-sports.io/football/teams/26601.png" group-title="⚽ Bóng Đá",[18:00 18/10] Bắc Ninh vs Trường Tươi Đồng Nai (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Ninh Bình FC vs Hoang Anh Gia Lai" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png" group-title="⚽ Bóng Đá",[18:00 18/10] Ninh Bình FC vs Hoang Anh Gia Lai (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Ninh Bình FC vs Hoang Anh Gia Lai" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png" group-title="⚽ Bóng Đá",[18:00 18/10] Ninh Bình FC vs Hoang Anh Gia Lai (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Ninh Bình FC vs Hoang Anh Gia Lai" tvg-logo="https://media.chuoichientv.net/media/20250912_195620_46ee0fc6.png" group-title="⚽ Bóng Đá",[18:00 18/10] Ninh Bình FC vs Hoang Anh Gia Lai (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Công An Hà Nội vs Ha Noi" tvg-logo="https://media.chuoichientv.net/media/20250823_192612_72e9a551.webp" group-title="⚽ Bóng Đá",[19:15 18/10] Công An Hà Nội vs Ha Noi (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
