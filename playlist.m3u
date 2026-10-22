@@ -1,20 +1,11 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="PSM Makassar vs Persebaya Surabaya" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ffeccce1.png" group-title="⚽ Bóng Đá",[15:30 22/10] PSM Makassar vs Persebaya Surabaya (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="PSM Makassar vs Persebaya Surabaya" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ffeccce1.png" group-title="⚽ Bóng Đá",[15:30 22/10] PSM Makassar vs Persebaya Surabaya (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="PSM Makassar vs Persebaya Surabaya" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ffeccce1.png" group-title="⚽ Bóng Đá",[15:30 22/10] PSM Makassar vs Persebaya Surabaya (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Văn Hiến vs Đồng Tháp" tvg-logo="https://media.api-sports.io/football/teams/26603.png" group-title="⚽ Bóng Đá",[17:00 22/10] Văn Hiến vs Đồng Tháp (Chuối Tây) [HD1]
+#EXTINF:-1 tvg-name="Văn Hiến vs Bình Minh Sài Gòn" tvg-logo="https://media.api-sports.io/football/teams/26603.png" group-title="⚽ Bóng Đá",[17:00 22/10] Văn Hiến vs Bình Minh Sài Gòn (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Văn Hiến vs Đồng Tháp" tvg-logo="https://media.api-sports.io/football/teams/26603.png" group-title="⚽ Bóng Đá",[17:00 22/10] Văn Hiến vs Đồng Tháp (Chuối Tây) [HD2]
+#EXTINF:-1 tvg-name="Văn Hiến vs Bình Minh Sài Gòn" tvg-logo="https://media.api-sports.io/football/teams/26603.png" group-title="⚽ Bóng Đá",[17:00 22/10] Văn Hiến vs Bình Minh Sài Gòn (Chuối Tây) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Văn Hiến vs Đồng Tháp" tvg-logo="https://media.api-sports.io/football/teams/26603.png" group-title="⚽ Bóng Đá",[17:00 22/10] Văn Hiến vs Đồng Tháp (Chuối Tây) [FHD]
+#EXTINF:-1 tvg-name="Văn Hiến vs Bình Minh Sài Gòn" tvg-logo="https://media.api-sports.io/football/teams/26603.png" group-title="⚽ Bóng Đá",[17:00 22/10] Văn Hiến vs Bình Minh Sài Gòn (Chuối Tây) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Xuan Thien Phu Tho vs PVF-CAND" tvg-logo="https://media.api-sports.io/football/teams/26745.png" group-title="⚽ Bóng Đá",[18:00 22/10] Xuan Thien Phu Tho vs PVF-CAND (Chuối Sấy) [HD1]
