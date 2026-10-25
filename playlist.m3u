@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Sydney vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_53d90f93.png" group-title="⚽ Bóng Đá",[11:00 25/10] Sydney vs Adelaide United (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Sydney vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_53d90f93.png" group-title="⚽ Bóng Đá",[11:00 25/10] Sydney vs Adelaide United (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Sydney vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_53d90f93.png" group-title="⚽ Bóng Đá",[11:00 25/10] Sydney vs Adelaide United (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="FC Tokyo vs Mito Hollyhock" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" group-title="⚽ Bóng Đá",[14:00 25/10] FC Tokyo vs Mito Hollyhock (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="FC Tokyo vs Mito Hollyhock" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" group-title="⚽ Bóng Đá",[14:00 25/10] FC Tokyo vs Mito Hollyhock (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="FC Tokyo vs Mito Hollyhock" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132412_1f072485.png" group-title="⚽ Bóng Đá",[14:00 25/10] FC Tokyo vs Mito Hollyhock (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Arema FC vs Dewa United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134615_6b83f5fd.png" group-title="⚽ Bóng Đá",[15:30 25/10] Arema FC vs Dewa United (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -188,12 +170,3 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Re
 #EXTINF:-1 tvg-name="Club Tijuana vs Santos Laguna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133837_c53709bd.png" group-title="⚽ Bóng Đá",[10:00 26/10] Club Tijuana vs Santos Laguna (Chuối Nhỏ) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Gunma Bank Green Wings W vs Prestige Aranmare W" tvg-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="🏐 Bóng Chuyền",[11:05 25/10] Gunma Bank Green Wings W vs Prestige Aranmare W (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Gunma Bank Green Wings W vs Prestige Aranmare W" tvg-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="🏐 Bóng Chuyền",[11:05 25/10] Gunma Bank Green Wings W vs Prestige Aranmare W (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Gunma Bank Green Wings W vs Prestige Aranmare W" tvg-logo="https://media.chuoichientv.net/media/20251011_220657_399c6a8e.png" group-title="🏐 Bóng Chuyền",[11:05 25/10] Gunma Bank Green Wings W vs Prestige Aranmare W (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
