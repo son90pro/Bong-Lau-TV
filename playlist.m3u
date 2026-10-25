@@ -1,31 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="SC Freiburg vs Bayern München" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png" group-title="⚽ Bóng Đá",[23:30 25/10] SC Freiburg vs Bayern München (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="SC Freiburg vs Bayern München" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png" group-title="⚽ Bóng Đá",[23:30 25/10] SC Freiburg vs Bayern München (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="SC Freiburg vs Bayern München" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125553_54f643a6.png" group-title="⚽ Bóng Đá",[23:30 25/10] SC Freiburg vs Bayern München (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lecce vs Juventus" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_5147c1a2.png" group-title="⚽ Bóng Đá",[00:00 26/10] Lecce vs Juventus (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lecce vs Juventus" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_5147c1a2.png" group-title="⚽ Bóng Đá",[00:00 26/10] Lecce vs Juventus (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lecce vs Juventus" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_5147c1a2.png" group-title="⚽ Bóng Đá",[00:00 26/10] Lecce vs Juventus (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Sociedad vs Levante" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_f23143f4.png" group-title="⚽ Bóng Đá",[00:30 26/10] Real Sociedad vs Levante (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Sociedad vs Levante" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_f23143f4.png" group-title="⚽ Bóng Đá",[00:30 26/10] Real Sociedad vs Levante (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Sociedad vs Levante" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125627_f23143f4.png" group-title="⚽ Bóng Đá",[00:30 26/10] Real Sociedad vs Levante (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Udinese vs AC Milan" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125601_d19dd636.png" group-title="⚽ Bóng Đá",[02:45 26/10] Udinese vs AC Milan (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
