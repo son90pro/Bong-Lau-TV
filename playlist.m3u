@@ -1,31 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Lochin vs FarDu" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142658_7670cc2d.png" group-title="⚽ Bóng Đá",[17:00 26/10] Lochin vs FarDu (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lochin vs FarDu" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142658_7670cc2d.png" group-title="⚽ Bóng Đá",[17:00 26/10] Lochin vs FarDu (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lochin vs FarDu" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142658_7670cc2d.png" group-title="⚽ Bóng Đá",[17:00 26/10] Lochin vs FarDu (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Geylang International vs Hougang United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_b62ec888.png" group-title="⚽ Bóng Đá",[18:30 26/10] Geylang International vs Hougang United (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Geylang International vs Hougang United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_b62ec888.png" group-title="⚽ Bóng Đá",[18:30 26/10] Geylang International vs Hougang United (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Geylang International vs Hougang United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133030_b62ec888.png" group-title="⚽ Bóng Đá",[18:30 26/10] Geylang International vs Hougang United (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Persija vs Persik Kediri" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134621_7ed44b9b.png" group-title="⚽ Bóng Đá",[19:00 26/10] Persija vs Persik Kediri (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Persija vs Persik Kediri" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134621_7ed44b9b.png" group-title="⚽ Bóng Đá",[19:00 26/10] Persija vs Persik Kediri (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Persija vs Persik Kediri" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134621_7ed44b9b.png" group-title="⚽ Bóng Đá",[19:00 26/10] Persija vs Persik Kediri (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Neftchi vs Al-Ittihad FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png" group-title="⚽ Bóng Đá",[20:45 26/10] Neftchi vs Al-Ittihad FC (Chuối Lá) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -35,6 +8,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|R
 #EXTINF:-1 tvg-name="Neftchi vs Al-Ittihad FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131726_7773be6e.png" group-title="⚽ Bóng Đá",[20:45 26/10] Neftchi vs Al-Ittihad FC (Chuối Lá) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lokomotiv Plovdiv vs Slavia Sofia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134218_13064c18.png" group-title="⚽ Bóng Đá",[22:00 26/10] Lokomotiv Plovdiv vs Slavia Sofia (Chuối Chao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lokomotiv Plovdiv vs Slavia Sofia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134218_13064c18.png" group-title="⚽ Bóng Đá",[22:00 26/10] Lokomotiv Plovdiv vs Slavia Sofia (Chuối Chao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Lokomotiv Plovdiv vs Slavia Sofia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134218_13064c18.png" group-title="⚽ Bóng Đá",[22:00 26/10] Lokomotiv Plovdiv vs Slavia Sofia (Chuối Chao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Al-Ahli Jeddah vs Al-Gharafa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133413_e6842fb5.png" group-title="⚽ Bóng Đá",[23:00 26/10] Al-Ahli Jeddah vs Al-Gharafa (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -89,6 +71,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Trực Tiếp vs Lễ trao giải Quả bóng Vàng 2026" tvg-logo="https://media.chuoichientv.net/media/20261025_102639_9f54bd1e.webp" group-title="⚽ Bóng Đá",[02:00 27/10] Trực Tiếp vs Lễ trao giải Quả bóng Vàng 2026 (Chuối Sấy) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Paris Saint Germain vs Lyon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125513_ca6329d9.png" group-title="⚽ Bóng Đá",[02:30 27/10] Paris Saint Germain vs Lyon (Chuối Già) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Paris Saint Germain vs Lyon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125513_ca6329d9.png" group-title="⚽ Bóng Đá",[02:30 27/10] Paris Saint Germain vs Lyon (Chuối Già) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Paris Saint Germain vs Lyon" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125513_ca6329d9.png" group-title="⚽ Bóng Đá",[02:30 27/10] Paris Saint Germain vs Lyon (Chuối Già) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Sevilla vs Osasuna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png" group-title="⚽ Bóng Đá",[03:00 27/10] Sevilla vs Osasuna (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
