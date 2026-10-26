@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="⚽ Bóng Đá",[08:00 26/10] Los Angeles FC vs Los Angeles Galaxy (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="⚽ Bóng Đá",[08:00 26/10] Los Angeles FC vs Los Angeles Galaxy (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="⚽ Bóng Đá",[08:00 26/10] Los Angeles FC vs Los Angeles Galaxy (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club Tijuana vs Santos Laguna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133837_c53709bd.png" group-title="⚽ Bóng Đá",[10:00 26/10] Club Tijuana vs Santos Laguna (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club Tijuana vs Santos Laguna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133837_c53709bd.png" group-title="⚽ Bóng Đá",[10:00 26/10] Club Tijuana vs Santos Laguna (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club Tijuana vs Santos Laguna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133837_c53709bd.png" group-title="⚽ Bóng Đá",[10:00 26/10] Club Tijuana vs Santos Laguna (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Lochin vs FarDu" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142658_7670cc2d.png" group-title="⚽ Bóng Đá",[17:00 26/10] Lochin vs FarDu (Chuối Kem) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
