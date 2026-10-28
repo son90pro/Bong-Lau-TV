@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="AS Roma vs Cagliari" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" group-title="⚽ Bóng Đá",[02:45 28/10] AS Roma vs Cagliari (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="AS Roma vs Cagliari" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" group-title="⚽ Bóng Đá",[02:45 28/10] AS Roma vs Cagliari (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="AS Roma vs Cagliari" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_12e06f1d.png" group-title="⚽ Bóng Đá",[02:45 28/10] AS Roma vs Cagliari (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Torino vs Como" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125604_aafec1fd.png" group-title="⚽ Bóng Đá",[02:45 28/10] Torino vs Como (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Torino vs Como" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125604_aafec1fd.png" group-title="⚽ Bóng Đá",[02:45 28/10] Torino vs Como (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Torino vs Como" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125604_aafec1fd.png" group-title="⚽ Bóng Đá",[02:45 28/10] Torino vs Como (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Borussia Dortmund vs Werder Bremen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png" group-title="⚽ Bóng Đá",[02:45 28/10] Borussia Dortmund vs Werder Bremen (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Borussia Dortmund vs Werder Bremen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png" group-title="⚽ Bóng Đá",[02:45 28/10] Borussia Dortmund vs Werder Bremen (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Borussia Dortmund vs Werder Bremen" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125555_332e69fe.png" group-title="⚽ Bóng Đá",[02:45 28/10] Borussia Dortmund vs Werder Bremen (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Fleetwood Town vs Arsenal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130904_95bc912d.png" group-title="⚽ Bóng Đá",[03:00 28/10] Fleetwood Town vs Arsenal (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Fleetwood Town vs Arsenal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130904_95bc912d.png" group-title="⚽ Bóng Đá",[03:00 28/10] Fleetwood Town vs Arsenal (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Fleetwood Town vs Arsenal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130904_95bc912d.png" group-title="⚽ Bóng Đá",[03:00 28/10] Fleetwood Town vs Arsenal (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Cucuta vs Rionegro Aguilas" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_a2b33348.png" group-title="⚽ Bóng Đá",[06:00 28/10] Cucuta vs Rionegro Aguilas (Trốc Tru) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
