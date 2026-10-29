@@ -1,31 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Inter Bogotá vs Independiente Medellín" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_1c504b8c.png" group-title="⚽ Bóng Đá",[08:05 29/10] Inter Bogotá vs Independiente Medellín (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Inter Bogotá vs Independiente Medellín" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_1c504b8c.png" group-title="⚽ Bóng Đá",[08:05 29/10] Inter Bogotá vs Independiente Medellín (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Inter Bogotá vs Independiente Medellín" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_1c504b8c.png" group-title="⚽ Bóng Đá",[08:05 29/10] Inter Bogotá vs Independiente Medellín (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club America vs Club Tijuana" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="⚽ Bóng Đá",[10:00 29/10] Club America vs Club Tijuana (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club America vs Club Tijuana" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="⚽ Bóng Đá",[10:00 29/10] Club America vs Club Tijuana (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Club America vs Club Tijuana" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133407_faa908b8.png" group-title="⚽ Bóng Đá",[10:00 29/10] Club America vs Club Tijuana (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Adelaide United vs Lion City Sailors FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" group-title="⚽ Bóng Đá",[14:45 29/10] Adelaide United vs Lion City Sailors FC (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Adelaide United vs Lion City Sailors FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" group-title="⚽ Bóng Đá",[14:45 29/10] Adelaide United vs Lion City Sailors FC (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Adelaide United vs Lion City Sailors FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130442_7beb7455.png" group-title="⚽ Bóng Đá",[14:45 29/10] Adelaide United vs Lion City Sailors FC (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Canberra FC vs South Melbourne" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133650_e6f45cba.png" group-title="⚽ Bóng Đá",[15:30 29/10] Canberra FC vs South Melbourne (Chuối Nhỏ) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
