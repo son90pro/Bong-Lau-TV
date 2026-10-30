@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Al Diriyah vs Al Neom" tvg-logo="https://media.api-sports.io/football/teams/26738.png" group-title="⚽ Bóng Đá",[21:50 30/10] Al Diriyah vs Al Neom (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al Diriyah vs Al Neom" tvg-logo="https://media.api-sports.io/football/teams/26738.png" group-title="⚽ Bóng Đá",[21:50 30/10] Al Diriyah vs Al Neom (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al Diriyah vs Al Neom" tvg-logo="https://media.api-sports.io/football/teams/26738.png" group-title="⚽ Bóng Đá",[21:50 30/10] Al Diriyah vs Al Neom (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Konyaspor vs Galatasaray" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png" group-title="⚽ Bóng Đá",[00:00 31/10] Konyaspor vs Galatasaray (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Konyaspor vs Galatasaray" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png" group-title="⚽ Bóng Đá",[00:00 31/10] Konyaspor vs Galatasaray (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Konyaspor vs Galatasaray" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125841_a59ad7fe.png" group-title="⚽ Bóng Đá",[00:00 31/10] Konyaspor vs Galatasaray (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Energie Cottbus vs VfL Bochum" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130309_8a836721.png" group-title="⚽ Bóng Đá",[00:30 31/10] Energie Cottbus vs VfL Bochum (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Energie Cottbus vs VfL Bochum" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130309_8a836721.png" group-title="⚽ Bóng Đá",[00:30 31/10] Energie Cottbus vs VfL Bochum (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Energie Cottbus vs VfL Bochum" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130309_8a836721.png" group-title="⚽ Bóng Đá",[00:30 31/10] Energie Cottbus vs VfL Bochum (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="LE Havre vs Paris Saint Germain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_84b3457e.png" group-title="⚽ Bóng Đá",[01:00 31/10] LE Havre vs Paris Saint Germain (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="LE Havre vs Paris Saint Germain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_84b3457e.png" group-title="⚽ Bóng Đá",[01:00 31/10] LE Havre vs Paris Saint Germain (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="LE Havre vs Paris Saint Germain" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125518_84b3457e.png" group-title="⚽ Bóng Đá",[01:00 31/10] LE Havre vs Paris Saint Germain (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="SV Elversberg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130305_0af140aa.png" group-title="⚽ Bóng Đá",[02:30 31/10] SV Elversberg vs FSV Mainz 05 (Trốc Tru) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
