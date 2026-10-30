@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="SV Elversberg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130305_0af140aa.png" group-title="⚽ Bóng Đá",[02:30 31/10] SV Elversberg vs FSV Mainz 05 (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="SV Elversberg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130305_0af140aa.png" group-title="⚽ Bóng Đá",[02:30 31/10] SV Elversberg vs FSV Mainz 05 (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="SV Elversberg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130305_0af140aa.png" group-title="⚽ Bóng Đá",[02:30 31/10] SV Elversberg vs FSV Mainz 05 (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Villarreal vs Espanyol" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png" group-title="⚽ Bóng Đá",[03:00 31/10] Villarreal vs Espanyol (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Villarreal vs Espanyol" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png" group-title="⚽ Bóng Đá",[03:00 31/10] Villarreal vs Espanyol (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Villarreal vs Espanyol" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_b5012a41.png" group-title="⚽ Bóng Đá",[03:00 31/10] Villarreal vs Espanyol (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Huracan vs Tigre" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132721_d2eaa045.png" group-title="⚽ Bóng Đá",[05:00 31/10] Huracan vs Tigre (Trốc Tru) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
