@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Melbourne Victory vs Central Coast Mariners" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" group-title="⚽ Bóng Đá",[11:00 01/11] Melbourne Victory vs Central Coast Mariners (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Melbourne Victory vs Central Coast Mariners" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" group-title="⚽ Bóng Đá",[11:00 01/11] Melbourne Victory vs Central Coast Mariners (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Melbourne Victory vs Central Coast Mariners" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130440_bcff7572.png" group-title="⚽ Bóng Đá",[11:00 01/11] Melbourne Victory vs Central Coast Mariners (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_8fde6a88.png" group-title="⚽ Bóng Đá",[15:00 01/11] Perth Glory vs Adelaide United (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_8fde6a88.png" group-title="⚽ Bóng Đá",[15:00 01/11] Perth Glory vs Adelaide United (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Perth Glory vs Adelaide United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130438_8fde6a88.png" group-title="⚽ Bóng Đá",[15:00 01/11] Perth Glory vs Adelaide United (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="TP. Hồ Chí Minh vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="⚽ Bóng Đá",[18:00 01/11] TP. Hồ Chí Minh vs Da Nang (Chuối Già) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -26,15 +8,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|
 #EXTINF:-1 tvg-name="TP. Hồ Chí Minh vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/20260417_091125_e069e829.png" group-title="⚽ Bóng Đá",[18:00 01/11] TP. Hồ Chí Minh vs Da Nang (Chuối Già) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bình Minh Sài Gòn vs Hung Yen" tvg-logo="https://media.chuoichientv.net/media/20261022_090126_ee34d169.png" group-title="⚽ Bóng Đá",[17:00 01/11] Bình Minh Sài Gòn vs Hung Yen (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bình Minh Sài Gòn vs Hung Yen" tvg-logo="https://media.chuoichientv.net/media/20261022_090126_ee34d169.png" group-title="⚽ Bóng Đá",[17:00 01/11] Bình Minh Sài Gòn vs Hung Yen (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Bình Minh Sài Gòn vs Hung Yen" tvg-logo="https://media.chuoichientv.net/media/20261022_090126_ee34d169.png" group-title="⚽ Bóng Đá",[17:00 01/11] Bình Minh Sài Gòn vs Hung Yen (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Como vs Venezia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125607_2784433a.png" group-title="⚽ Bóng Đá",[18:30 01/11] Como vs Venezia (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -44,6 +17,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Como vs Venezia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125607_2784433a.png" group-title="⚽ Bóng Đá",[18:30 01/11] Como vs Venezia (Chuối Sấy) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Bình Minh Sài Gòn vs Hung Yen" tvg-logo="https://media.chuoichientv.net/media/20261022_090126_ee34d169.png" group-title="⚽ Bóng Đá",[17:00 01/11] Bình Minh Sài Gòn vs Hung Yen (Chuối Tây) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Bình Minh Sài Gòn vs Hung Yen" tvg-logo="https://media.chuoichientv.net/media/20261022_090126_ee34d169.png" group-title="⚽ Bóng Đá",[17:00 01/11] Bình Minh Sài Gòn vs Hung Yen (Chuối Tây) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Bình Minh Sài Gòn vs Hung Yen" tvg-logo="https://media.chuoichientv.net/media/20261022_090126_ee34d169.png" group-title="⚽ Bóng Đá",[17:00 01/11] Bình Minh Sài Gòn vs Hung Yen (Chuối Tây) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Getafe vs Sevilla" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125626_e2044734.png" group-title="⚽ Bóng Đá",[20:00 01/11] Getafe vs Sevilla (Chuối Lá) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -152,15 +134,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|R
 #EXTINF:-1 tvg-name="Athletic Club vs Real Sociedad" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125622_e607f942.png" group-title="⚽ Bóng Đá",[03:00 02/11] Athletic Club vs Real Sociedad (Trốc Tru) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Independiente Medellín vs Alianza Petrolera" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png" group-title="⚽ Bóng Đá",[06:10 02/11] Independiente Medellín vs Alianza Petrolera (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Independiente Medellín vs Alianza Petrolera" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png" group-title="⚽ Bóng Đá",[06:10 02/11] Independiente Medellín vs Alianza Petrolera (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Independiente Medellín vs Alianza Petrolera" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png" group-title="⚽ Bóng Đá",[06:10 02/11] Independiente Medellín vs Alianza Petrolera (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="New England Revolution vs Inter Miami" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131606_f4f3db91.png" group-title="⚽ Bóng Đá",[07:00 02/11] New England Revolution vs Inter Miami (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -170,21 +143,21 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-name="New England Revolution vs Inter Miami" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131606_f4f3db91.png" group-title="⚽ Bóng Đá",[07:00 02/11] New England Revolution vs Inter Miami (Chuối Chao) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Portland Timbers vs Houston Dynamo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_fe98d3a5.png" group-title="⚽ Bóng Đá",[09:30 02/11] Portland Timbers vs Houston Dynamo (Chuối Sấy) [HD1]
+#EXTINF:-1 tvg-name="Los Angeles FC vs Minnesota United FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="⚽ Bóng Đá",[08:30 02/11] Los Angeles FC vs Minnesota United FC (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Portland Timbers vs Houston Dynamo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_fe98d3a5.png" group-title="⚽ Bóng Đá",[09:30 02/11] Portland Timbers vs Houston Dynamo (Chuối Sấy) [HD2]
+#EXTINF:-1 tvg-name="Los Angeles FC vs Minnesota United FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="⚽ Bóng Đá",[08:30 02/11] Los Angeles FC vs Minnesota United FC (Chuối Sấy) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Portland Timbers vs Houston Dynamo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_fe98d3a5.png" group-title="⚽ Bóng Đá",[09:30 02/11] Portland Timbers vs Houston Dynamo (Chuối Sấy) [FHD]
+#EXTINF:-1 tvg-name="Los Angeles FC vs Minnesota United FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131610_3c117687.png" group-title="⚽ Bóng Đá",[08:30 02/11] Los Angeles FC vs Minnesota United FC (Chuối Sấy) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Okayama Seagulls W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="🏐 Bóng Chuyền",[12:00 01/11] Okayama Seagulls W vs Gunma Bank Green Wings W (Chuối Kem) [HD1]
+#EXTINF:-1 tvg-name="Independiente Medellín vs Alianza Petrolera" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png" group-title="⚽ Bóng Đá",[06:10 02/11] Independiente Medellín vs Alianza Petrolera (Chuối Nhỏ) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Okayama Seagulls W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="🏐 Bóng Chuyền",[12:00 01/11] Okayama Seagulls W vs Gunma Bank Green Wings W (Chuối Kem) [HD2]
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Independiente Medellín vs Alianza Petrolera" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png" group-title="⚽ Bóng Đá",[06:10 02/11] Independiente Medellín vs Alianza Petrolera (Chuối Nhỏ) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Okayama Seagulls W vs Gunma Bank Green Wings W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="🏐 Bóng Chuyền",[12:00 01/11] Okayama Seagulls W vs Gunma Bank Green Wings W (Chuối Kem) [FHD]
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Independiente Medellín vs Alianza Petrolera" tvg-logo="https://media.chuoichientv.net/media/20260930_011303_48ab49d9.png" group-title="⚽ Bóng Đá",[06:10 02/11] Independiente Medellín vs Alianza Petrolera (Chuối Nhỏ) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
