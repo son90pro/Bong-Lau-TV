@@ -1,31 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Cruzeiro vs Bahia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png" group-title="⚽ Bóng Đá",[07:30 06/11] Cruzeiro vs Bahia (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Cruzeiro vs Bahia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png" group-title="⚽ Bóng Đá",[07:30 06/11] Cruzeiro vs Bahia (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Cruzeiro vs Bahia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125539_21b1f972.png" group-title="⚽ Bóng Đá",[07:30 06/11] Cruzeiro vs Bahia (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Cancun FC vs Piratas FC" tvg-logo="https://media.chuoichientv.net/media/20261106_011314_ad6c7259.png" group-title="⚽ Bóng Đá",[08:06 06/11] Cancun FC vs Piratas FC (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Cancun FC vs Piratas FC" tvg-logo="https://media.chuoichientv.net/media/20261106_011314_ad6c7259.png" group-title="⚽ Bóng Đá",[08:06 06/11] Cancun FC vs Piratas FC (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Cancun FC vs Piratas FC" tvg-logo="https://media.chuoichientv.net/media/20261106_011314_ad6c7259.png" group-title="⚽ Bóng Đá",[08:06 06/11] Cancun FC vs Piratas FC (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Santos Laguna W vs Tijuana W" tvg-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png" group-title="⚽ Bóng Đá",[10:10 06/11] Santos Laguna W vs Tijuana W (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Santos Laguna W vs Tijuana W" tvg-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png" group-title="⚽ Bóng Đá",[10:10 06/11] Santos Laguna W vs Tijuana W (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Santos Laguna W vs Tijuana W" tvg-logo="https://media.chuoichientv.net/media/20250916_004011_bb3475cd.png" group-title="⚽ Bóng Đá",[10:10 06/11] Santos Laguna W vs Tijuana W (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="PSIM Yogyakarta vs Dewa United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140537_8be207a1.png" group-title="⚽ Bóng Đá",[15:30 06/11] PSIM Yogyakarta vs Dewa United (Chuối Lá) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -71,15 +44,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Trường Tươi Đồng Nai vs Da Nang" tvg-logo="https://media.chuoichientv.net/media/20251121_155919_59876ece.png" group-title="⚽ Bóng Đá",[18:00 06/11] Trường Tươi Đồng Nai vs Da Nang (Chuối Già) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lamphun Warrior vs Sukhothai FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131736_77b745a9.png" group-title="⚽ Bóng Đá",[19:00 06/11] Lamphun Warrior vs Sukhothai FC (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lamphun Warrior vs Sukhothai FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131736_77b745a9.png" group-title="⚽ Bóng Đá",[19:00 06/11] Lamphun Warrior vs Sukhothai FC (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Lamphun Warrior vs Sukhothai FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131736_77b745a9.png" group-title="⚽ Bóng Đá",[19:00 06/11] Lamphun Warrior vs Sukhothai FC (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Persepam Madura Utd vs Arema FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134616_ea998238.png" group-title="⚽ Bóng Đá",[19:00 06/11] Persepam Madura Utd vs Arema FC (Chuối Kem) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -134,6 +98,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Sevilla vs Alaves" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125623_bcacccf3.png" group-title="⚽ Bóng Đá",[03:00 07/11] Sevilla vs Alaves (Chuối Tây) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Septemvri Sofia vs Lokomotiv Sofia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134218_f10a5445.png" group-title="⚽ Bóng Đá",[22:00 06/11] Septemvri Sofia vs Lokomotiv Sofia (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Septemvri Sofia vs Lokomotiv Sofia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134218_f10a5445.png" group-title="⚽ Bóng Đá",[22:00 06/11] Septemvri Sofia vs Lokomotiv Sofia (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Septemvri Sofia vs Lokomotiv Sofia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134218_f10a5445.png" group-title="⚽ Bóng Đá",[22:00 06/11] Septemvri Sofia vs Lokomotiv Sofia (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Lokomotiv vs Rubin" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133526_93f92456.png" group-title="⚽ Bóng Đá",[23:30 06/11] Lokomotiv vs Rubin (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
