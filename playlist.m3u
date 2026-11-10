@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Häcken vs Chelsea W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140517_72f0bbb2.png" group-title="⚽ Bóng Đá",[00:45 11/11] Häcken vs Chelsea W (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Häcken vs Chelsea W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140517_72f0bbb2.png" group-title="⚽ Bóng Đá",[00:45 11/11] Häcken vs Chelsea W (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Häcken vs Chelsea W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140517_72f0bbb2.png" group-title="⚽ Bóng Đá",[00:45 11/11] Häcken vs Chelsea W (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Madrid W vs Paris FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133759_b6982020.png" group-title="⚽ Bóng Đá",[00:45 11/11] Real Madrid W vs Paris FC W (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Madrid W vs Paris FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133759_b6982020.png" group-title="⚽ Bóng Đá",[00:45 11/11] Real Madrid W vs Paris FC W (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Madrid W vs Paris FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133759_b6982020.png" group-title="⚽ Bóng Đá",[00:45 11/11] Real Madrid W vs Paris FC W (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Inter Milano W vs Manchester City W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png" group-title="⚽ Bóng Đá",[03:00 11/11] Inter Milano W vs Manchester City W (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Inter Milano W vs Manchester City W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png" group-title="⚽ Bóng Đá",[03:00 11/11] Inter Milano W vs Manchester City W (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Inter Milano W vs Manchester City W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133743_9c285531.png" group-title="⚽ Bóng Đá",[03:00 11/11] Inter Milano W vs Manchester City W (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Paris Saint Germain W vs Bayern Munich W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132644_11cf8169.png" group-title="⚽ Bóng Đá",[03:00 11/11] Paris Saint Germain W vs Bayern Munich W (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Paris Saint Germain W vs Bayern Munich W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132644_11cf8169.png" group-title="⚽ Bóng Đá",[03:00 11/11] Paris Saint Germain W vs Bayern Munich W (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Paris Saint Germain W vs Bayern Munich W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132644_11cf8169.png" group-title="⚽ Bóng Đá",[03:00 11/11] Paris Saint Germain W vs Bayern Munich W (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Inter Bogotá vs America de Cali" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_1c504b8c.png" group-title="⚽ Bóng Đá",[06:30 11/11] Inter Bogotá vs America de Cali (Trốc Tru) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
