@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Inter Bogotá vs America de Cali" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_1c504b8c.png" group-title="⚽ Bóng Đá",[06:30 11/11] Inter Bogotá vs America de Cali (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Inter Bogotá vs America de Cali" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_1c504b8c.png" group-title="⚽ Bóng Đá",[06:30 11/11] Inter Bogotá vs America de Cali (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Inter Bogotá vs America de Cali" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133534_1c504b8c.png" group-title="⚽ Bóng Đá",[06:30 11/11] Inter Bogotá vs America de Cali (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Once Caldas vs Atletico Nacional" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_9251abf9.png" group-title="⚽ Bóng Đá",[08:30 11/11] Once Caldas vs Atletico Nacional (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Once Caldas vs Atletico Nacional" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_9251abf9.png" group-title="⚽ Bóng Đá",[08:30 11/11] Once Caldas vs Atletico Nacional (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Once Caldas vs Atletico Nacional" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_9251abf9.png" group-title="⚽ Bóng Đá",[08:30 11/11] Once Caldas vs Atletico Nacional (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Guam U17 vs Palestine U17" tvg-logo="https://media.chuoichientv.net/media/20251123_190752_677903ce.png" group-title="⚽ Bóng Đá",[14:30 11/11] Guam U17 vs Palestine U17 (Chuối Lá) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -161,3 +143,21 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
 #EXTINF:-1 tvg-name="SL Benfica vs Austria Wien W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_140514_34a14d54.png" group-title="⚽ Bóng Đá",[03:00 12/11] SL Benfica vs Austria Wien W (Chuối Chao) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Real Soacha vs Real Cartagena" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_172c7e45.png" group-title="⚽ Bóng Đá",[06:00 12/11] Real Soacha vs Real Cartagena (Chuối Lửa) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Real Soacha vs Real Cartagena" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_172c7e45.png" group-title="⚽ Bóng Đá",[06:00 12/11] Real Soacha vs Real Cartagena (Chuối Lửa) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Real Soacha vs Real Cartagena" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_172c7e45.png" group-title="⚽ Bóng Đá",[06:00 12/11] Real Soacha vs Real Cartagena (Chuối Lửa) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Quindio vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133656_81f3753e.png" group-title="⚽ Bóng Đá",[08:10 12/11] Quindio vs Tigres FC (Chuối Kem) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Quindio vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133656_81f3753e.png" group-title="⚽ Bóng Đá",[08:10 12/11] Quindio vs Tigres FC (Chuối Kem) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Quindio vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133656_81f3753e.png" group-title="⚽ Bóng Đá",[08:10 12/11] Quindio vs Tigres FC (Chuối Kem) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
