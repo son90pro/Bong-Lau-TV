@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Quindio vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133656_81f3753e.png" group-title="⚽ Bóng Đá",[08:10 12/11] Quindio vs Tigres FC (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Quindio vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133656_81f3753e.png" group-title="⚽ Bóng Đá",[08:10 12/11] Quindio vs Tigres FC (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Quindio vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133656_81f3753e.png" group-title="⚽ Bóng Đá",[08:10 12/11] Quindio vs Tigres FC (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Pachuca W vs Monterrey W" tvg-logo="https://media.chuoichientv.net/media/20250825_181103_1c996e64.png" group-title="⚽ Bóng Đá",[10:00 12/11] Pachuca W vs Monterrey W (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Pachuca W vs Monterrey W" tvg-logo="https://media.chuoichientv.net/media/20250825_181103_1c996e64.png" group-title="⚽ Bóng Đá",[10:00 12/11] Pachuca W vs Monterrey W (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Pachuca W vs Monterrey W" tvg-logo="https://media.chuoichientv.net/media/20250825_181103_1c996e64.png" group-title="⚽ Bóng Đá",[10:00 12/11] Pachuca W vs Monterrey W (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="New Zealand vs India" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="⚽ Bóng Đá",[13:00 12/11] New Zealand vs India (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="New Zealand vs India" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="⚽ Bóng Đá",[13:00 12/11] New Zealand vs India (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="New Zealand vs India" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134204_ca5486e7.png" group-title="⚽ Bóng Đá",[13:00 12/11] New Zealand vs India (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="U23 Thailand  vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" group-title="⚽ Bóng Đá",[15:00 12/11] U23 Thailand  vs U23 Qatar (Chuối Lửa) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="U23 Thailand  vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" group-title="⚽ Bóng Đá",[15:00 12/11] U23 Thailand  vs U23 Qatar (Chuối Lửa) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="U23 Thailand  vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/uploads/20250727_220754_af82f425.png" group-title="⚽ Bóng Đá",[15:00 12/11] U23 Thailand  vs U23 Qatar (Chuối Lửa) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Hwacheon KSPO vs Gyeongju" tvg-logo="https://media.chuoichientv.net/media/20250922_095400_53ab86d3.png" group-title="⚽ Bóng Đá",[17:00 12/11] Hwacheon KSPO vs Gyeongju (Chuối Sấy) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -170,3 +134,12 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Llaneros vs Chico" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133539_dd5a3e20.png" group-title="⚽ Bóng Đá",[04:00 13/11] Llaneros vs Chico (Chuối Sấy) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Ulaanbaatar vs Hunters" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" group-title="⚽ Bóng Đá",[12:00 13/11] Ulaanbaatar vs Hunters (Chuối Chao) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Ulaanbaatar vs Hunters" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" group-title="⚽ Bóng Đá",[12:00 13/11] Ulaanbaatar vs Hunters (Chuối Chao) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Ulaanbaatar vs Hunters" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142517_93a5577b.png" group-title="⚽ Bóng Đá",[12:00 13/11] Ulaanbaatar vs Hunters (Chuối Chao) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
