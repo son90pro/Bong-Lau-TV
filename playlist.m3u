@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Juventus W vs Lyon W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133740_c11c4866.png" group-title="⚽ Bóng Đá",[03:00 12/11] Juventus W vs Lyon W (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Juventus W vs Lyon W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133740_c11c4866.png" group-title="⚽ Bóng Đá",[03:00 12/11] Juventus W vs Lyon W (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Juventus W vs Lyon W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133740_c11c4866.png" group-title="⚽ Bóng Đá",[03:00 12/11] Juventus W vs Lyon W (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Soacha vs Real Cartagena" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_172c7e45.png" group-title="⚽ Bóng Đá",[06:00 12/11] Real Soacha vs Real Cartagena (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Soacha vs Real Cartagena" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_172c7e45.png" group-title="⚽ Bóng Đá",[06:00 12/11] Real Soacha vs Real Cartagena (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Real Soacha vs Real Cartagena" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133658_172c7e45.png" group-title="⚽ Bóng Đá",[06:00 12/11] Real Soacha vs Real Cartagena (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Quindio vs Tigres FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133656_81f3753e.png" group-title="⚽ Bóng Đá",[08:10 12/11] Quindio vs Tigres FC (Chuối Kem) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
