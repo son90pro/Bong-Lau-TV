@@ -1,40 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Guatemala vs Canada" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="⚽ Bóng Đá",[09:00 14/11] Guatemala vs Canada (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Guatemala vs Canada" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="⚽ Bóng Đá",[09:00 14/11] Guatemala vs Canada (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Guatemala vs Canada" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132741_23db91f9.png" group-title="⚽ Bóng Đá",[09:00 14/11] Guatemala vs Canada (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Colombia vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132807_7f305cf9.png" group-title="⚽ Bóng Đá",[07:00 14/11] Colombia vs Chile (Trốc Tru) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Colombia vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132807_7f305cf9.png" group-title="⚽ Bóng Đá",[07:00 14/11] Colombia vs Chile (Trốc Tru) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Colombia vs Chile" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132807_7f305cf9.png" group-title="⚽ Bóng Đá",[07:00 14/11] Colombia vs Chile (Trốc Tru) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/troctruhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Melbourne Victory W vs Adelaide United W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133805_bcff7572.png" group-title="⚽ Bóng Đá",[11:00 14/11] Melbourne Victory W vs Adelaide United W (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Melbourne Victory W vs Adelaide United W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133805_bcff7572.png" group-title="⚽ Bóng Đá",[11:00 14/11] Melbourne Victory W vs Adelaide United W (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Melbourne Victory W vs Adelaide United W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133805_bcff7572.png" group-title="⚽ Bóng Đá",[11:00 14/11] Melbourne Victory W vs Adelaide United W (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Central Coast Mariners W vs Perth Glory FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133807_541a3f6d.png" group-title="⚽ Bóng Đá",[13:00 14/11] Central Coast Mariners W vs Perth Glory FC W (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Central Coast Mariners W vs Perth Glory FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133807_541a3f6d.png" group-title="⚽ Bóng Đá",[13:00 14/11] Central Coast Mariners W vs Perth Glory FC W (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Central Coast Mariners W vs Perth Glory FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133807_541a3f6d.png" group-title="⚽ Bóng Đá",[13:00 14/11] Central Coast Mariners W vs Perth Glory FC W (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="India U17 vs Guam U17" tvg-logo="https://media.api-sports.io/football/teams/20528.png" group-title="⚽ Bóng Đá",[14:30 14/11] India U17 vs Guam U17 (Chuối Nhỏ) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -62,13 +26,13 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|
 #EXTINF:-1 tvg-name="Bayswater City vs Sydney Olympic" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141359_0bf28bce.png" group-title="⚽ Bóng Đá",[15:30 14/11] Bayswater City vs Sydney Olympic (Chuối Già) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Việt Nam vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[15:30 14/11] Việt Nam vs South Korea (Chuối Tây) [HD1]
+#EXTINF:-1 tvg-name="Indonesia U17 vs Cambodia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145025_cf293075.png" group-title="⚽ Bóng Đá",[15:30 14/11] Indonesia U17 vs Cambodia U17 (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Việt Nam vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[15:30 14/11] Việt Nam vs South Korea (Chuối Tây) [HD2]
+#EXTINF:-1 tvg-name="Indonesia U17 vs Cambodia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145025_cf293075.png" group-title="⚽ Bóng Đá",[15:30 14/11] Indonesia U17 vs Cambodia U17 (Chuối Tây) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Việt Nam vs South Korea" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_142852_6270222c.png" group-title="⚽ Bóng Đá",[15:30 14/11] Việt Nam vs South Korea (Chuối Tây) [FHD]
+#EXTINF:-1 tvg-name="Indonesia U17 vs Cambodia U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145025_cf293075.png" group-title="⚽ Bóng Đá",[15:30 14/11] Indonesia U17 vs Cambodia U17 (Chuối Tây) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Japan vs Brazil" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134249_f7c8e720.png" group-title="⚽ Bóng Đá",[17:15 14/11] Japan vs Brazil (Chuối Nhỏ) [HD1]
@@ -98,6 +62,15 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|
 #EXTINF:-1 tvg-name="U23 Vietnam  vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png" group-title="⚽ Bóng Đá",[19:00 14/11] U23 Vietnam  vs U23 Qatar (Chuối Già) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="U23 Vietnam  vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png" group-title="⚽ Bóng Đá",[19:00 14/11] U23 Vietnam  vs U23 Qatar (Chuối Tây) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="U23 Vietnam  vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png" group-title="⚽ Bóng Đá",[19:00 14/11] U23 Vietnam  vs U23 Qatar (Chuối Tây) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="U23 Vietnam  vs U23 Qatar" tvg-logo="https://media.chuoichientv.net/media/20250902_190503_cfcedb98.png" group-title="⚽ Bóng Đá",[19:00 14/11] U23 Vietnam  vs U23 Qatar (Chuối Tây) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Kosovo vs Israel" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134300_f5f28cb7.png" group-title="⚽ Bóng Đá",[21:00 14/11] Kosovo vs Israel (Trốc Tru) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -233,21 +206,3 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|R
 #EXTINF:-1 tvg-name="Canberra United W vs Brisbane Roar FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133802_5040e07c.png" group-title="⚽ Bóng Đá",[11:00 15/11] Canberra United W vs Brisbane Roar FC W (Chuối Lá) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hisamitsu Springs W vs PFU Blue Cats W" tvg-logo="https://media.chuoichientv.net/media/20251107_144450_2fc776cf.png" group-title="🏐 Bóng Chuyền",[11:05 14/11] Hisamitsu Springs W vs PFU Blue Cats W (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hisamitsu Springs W vs PFU Blue Cats W" tvg-logo="https://media.chuoichientv.net/media/20251107_144450_2fc776cf.png" group-title="🏐 Bóng Chuyền",[11:05 14/11] Hisamitsu Springs W vs PFU Blue Cats W (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hisamitsu Springs W vs PFU Blue Cats W" tvg-logo="https://media.chuoichientv.net/media/20251107_144450_2fc776cf.png" group-title="🏐 Bóng Chuyền",[11:05 14/11] Hisamitsu Springs W vs PFU Blue Cats W (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Okayama Seagulls W vs NEC Red Rockets W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="🏐 Bóng Chuyền",[12:05 14/11] Okayama Seagulls W vs NEC Red Rockets W (Chuối Lửa) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Okayama Seagulls W vs NEC Red Rockets W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="🏐 Bóng Chuyền",[12:05 14/11] Okayama Seagulls W vs NEC Red Rockets W (Chuối Lửa) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Okayama Seagulls W vs NEC Red Rockets W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="🏐 Bóng Chuyền",[12:05 14/11] Okayama Seagulls W vs NEC Red Rockets W (Chuối Lửa) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
