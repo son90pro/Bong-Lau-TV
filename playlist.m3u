@@ -1,31 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Wellington Phoenix W vs Sydney FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png" group-title="⚽ Bóng Đá",[08:00 15/11] Wellington Phoenix W vs Sydney FC W (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Wellington Phoenix W vs Sydney FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png" group-title="⚽ Bóng Đá",[08:00 15/11] Wellington Phoenix W vs Sydney FC W (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Wellington Phoenix W vs Sydney FC W" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133806_db6ab218.png" group-title="⚽ Bóng Đá",[08:00 15/11] Wellington Phoenix W vs Sydney FC W (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Jamaica vs Mexico" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="⚽ Bóng Đá",[08:00 15/11] Jamaica vs Mexico (Chuối Lửa) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Jamaica vs Mexico" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="⚽ Bóng Đá",[08:00 15/11] Jamaica vs Mexico (Chuối Lửa) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Jamaica vs Mexico" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132739_776293e4.png" group-title="⚽ Bóng Đá",[08:00 15/11] Jamaica vs Mexico (Chuối Lửa) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Guadalajara W vs Juárez W" tvg-logo="https://media.chuoichientv.net/media/20251001_010752_94208e5e.png" group-title="⚽ Bóng Đá",[10:00 15/11] Guadalajara W vs Juárez W (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Guadalajara W vs Juárez W" tvg-logo="https://media.chuoichientv.net/media/20251001_010752_94208e5e.png" group-title="⚽ Bóng Đá",[10:00 15/11] Guadalajara W vs Juárez W (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Guadalajara W vs Juárez W" tvg-logo="https://media.chuoichientv.net/media/20251001_010752_94208e5e.png" group-title="⚽ Bóng Đá",[10:00 15/11] Guadalajara W vs Juárez W (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Cerezo Osaka vs Urawa" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132411_05a7d523.png" group-title="⚽ Bóng Đá",[13:00 15/11] Cerezo Osaka vs Urawa (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -213,15 +186,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Piratas FC vs América W" tvg-logo="https://media.chuoichientv.net/media/20261106_011319_f53708fb.png" group-title="⚽ Bóng Đá",[10:10 16/11] Piratas FC vs América W (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Denso Airybees W vs Body Queenseis W" tvg-logo="https://media.chuoichientv.net/media/20251128_090630_c4d3b236.png" group-title="🏐 Bóng Chuyền",[11:05 15/11] Denso Airybees W vs Body Queenseis W (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Denso Airybees W vs Body Queenseis W" tvg-logo="https://media.chuoichientv.net/media/20251128_090630_c4d3b236.png" group-title="🏐 Bóng Chuyền",[11:05 15/11] Denso Airybees W vs Body Queenseis W (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Denso Airybees W vs Body Queenseis W" tvg-logo="https://media.chuoichientv.net/media/20251128_090630_c4d3b236.png" group-title="🏐 Bóng Chuyền",[11:05 15/11] Denso Airybees W vs Body Queenseis W (Chuối Sấy) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Okayama Seagulls W vs NEC Red Rockets W" tvg-logo="https://media.chuoichientv.net/media/20251009_205314_04bcc920.png" group-title="🏐 Bóng Chuyền",[12:05 15/11] Okayama Seagulls W vs NEC Red Rockets W (Chuối Lửa) [HD1]
