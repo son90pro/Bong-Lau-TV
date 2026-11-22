@@ -1,58 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Isenmulang Kalteng vs Pusamania Borneo" tvg-logo="https://media.chuoichientv.net/media/20261020_043332_0bb43b09.png" group-title="⚽ Bóng Đá",[15:30 22/11] Isenmulang Kalteng vs Pusamania Borneo (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Isenmulang Kalteng vs Pusamania Borneo" tvg-logo="https://media.chuoichientv.net/media/20261020_043332_0bb43b09.png" group-title="⚽ Bóng Đá",[15:30 22/11] Isenmulang Kalteng vs Pusamania Borneo (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Isenmulang Kalteng vs Pusamania Borneo" tvg-logo="https://media.chuoichientv.net/media/20261020_043332_0bb43b09.png" group-title="⚽ Bóng Đá",[15:30 22/11] Isenmulang Kalteng vs Pusamania Borneo (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Da Nang vs Ninh Bình FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="⚽ Bóng Đá",[18:00 22/11] Da Nang vs Ninh Bình FC (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Da Nang vs Ninh Bình FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="⚽ Bóng Đá",[18:00 22/11] Da Nang vs Ninh Bình FC (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Da Nang vs Ninh Bình FC" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132407_6e839522.png" group-title="⚽ Bóng Đá",[18:00 22/11] Da Nang vs Ninh Bình FC (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hồng Lĩnh Hà Tĩnh vs TP. Hồ Chí Minh" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132406_ab87503a.png" group-title="⚽ Bóng Đá",[18:00 22/11] Hồng Lĩnh Hà Tĩnh vs TP. Hồ Chí Minh (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hồng Lĩnh Hà Tĩnh vs TP. Hồ Chí Minh" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132406_ab87503a.png" group-title="⚽ Bóng Đá",[18:00 22/11] Hồng Lĩnh Hà Tĩnh vs TP. Hồ Chí Minh (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hồng Lĩnh Hà Tĩnh vs TP. Hồ Chí Minh" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_132406_ab87503a.png" group-title="⚽ Bóng Đá",[18:00 22/11] Hồng Lĩnh Hà Tĩnh vs TP. Hồ Chí Minh (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Barcelona vs Villarreal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" group-title="⚽ Bóng Đá",[20:00 22/11] Barcelona vs Villarreal (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Barcelona vs Villarreal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" group-title="⚽ Bóng Đá",[20:00 22/11] Barcelona vs Villarreal (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Barcelona vs Villarreal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" group-title="⚽ Bóng Đá",[20:00 22/11] Barcelona vs Villarreal (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Barcelona vs Villarreal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" group-title="⚽ Bóng Đá",[20:00 22/11] Barcelona vs Villarreal (Chuối Chao) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Barcelona vs Villarreal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" group-title="⚽ Bóng Đá",[20:00 22/11] Barcelona vs Villarreal (Chuối Chao) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Barcelona vs Villarreal" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125621_92132918.png" group-title="⚽ Bóng Đá",[20:00 22/11] Barcelona vs Villarreal (Chuối Chao) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoichaohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hull City vs Brighton" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png" group-title="⚽ Bóng Đá",[21:00 22/11] Hull City vs Brighton (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hull City vs Brighton" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png" group-title="⚽ Bóng Đá",[21:00 22/11] Hull City vs Brighton (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Hull City vs Brighton" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_130851_e5825be5.png" group-title="⚽ Bóng Đá",[21:00 22/11] Hull City vs Brighton (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Liverpool vs Manchester United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" group-title="⚽ Bóng Đá",[23:30 22/11] Liverpool vs Manchester United (Trốc Tru) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -80,33 +26,6 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8|Re
 #EXTINF:-1 tvg-name="Liverpool vs Manchester United" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125546_c0f632e4.png" group-title="⚽ Bóng Đá",[23:30 22/11] Liverpool vs Manchester United (Chuối Lửa) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kuala Lumpur FA vs Penang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png" group-title="⚽ Bóng Đá",[16:30 22/11] Kuala Lumpur FA vs Penang (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kuala Lumpur FA vs Penang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png" group-title="⚽ Bóng Đá",[16:30 22/11] Kuala Lumpur FA vs Penang (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Kuala Lumpur FA vs Penang" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133854_622d53df.png" group-title="⚽ Bóng Đá",[16:30 22/11] Kuala Lumpur FA vs Penang (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Juventus vs Venezia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" group-title="⚽ Bóng Đá",[18:30 22/11] Juventus vs Venezia (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Juventus vs Venezia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" group-title="⚽ Bóng Đá",[18:30 22/11] Juventus vs Venezia (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Juventus vs Venezia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125602_ea0cc895.png" group-title="⚽ Bóng Đá",[18:30 22/11] Juventus vs Venezia (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="FC Augsburg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_af369dcc.png" group-title="⚽ Bóng Đá",[21:30 22/11] FC Augsburg vs FSV Mainz 05 (Chuối Lá) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="FC Augsburg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_af369dcc.png" group-title="⚽ Bóng Đá",[21:30 22/11] FC Augsburg vs FSV Mainz 05 (Chuối Lá) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="FC Augsburg vs FSV Mainz 05" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125556_af369dcc.png" group-title="⚽ Bóng Đá",[21:30 22/11] FC Augsburg vs FSV Mainz 05 (Chuối Lá) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="AC Milan vs Frosinone" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125600_dcceb506.png" group-title="⚽ Bóng Đá",[00:00 23/11] AC Milan vs Frosinone (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
