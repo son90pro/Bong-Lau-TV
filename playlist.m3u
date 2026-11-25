@@ -1,22 +1,4 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Millonarios vs Bucaramanga" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" group-title="⚽ Bóng Đá",[06:20 25/11] Millonarios vs Bucaramanga (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Millonarios vs Bucaramanga" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" group-title="⚽ Bóng Đá",[06:20 25/11] Millonarios vs Bucaramanga (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Millonarios vs Bucaramanga" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133531_9d48bb0f.png" group-title="⚽ Bóng Đá",[06:20 25/11] Millonarios vs Bucaramanga (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="America de Cali vs Deportivo Cali" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" group-title="⚽ Bóng Đá",[08:30 25/11] America de Cali vs Deportivo Cali (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="America de Cali vs Deportivo Cali" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" group-title="⚽ Bóng Đá",[08:30 25/11] America de Cali vs Deportivo Cali (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="America de Cali vs Deportivo Cali" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_5cc2515d.png" group-title="⚽ Bóng Đá",[08:30 25/11] America de Cali vs Deportivo Cali (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="San Jose Earthquakes vs Houston Dynamo" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_131600_44f931ad.png" group-title="⚽ Bóng Đá",[10:00 25/11] San Jose Earthquakes vs Houston Dynamo (Chuối Lửa) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoilua/playlist.m3u8|Referer=https://live.chuoichien.tv/
