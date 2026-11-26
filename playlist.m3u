@@ -1,49 +1,13 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Atletico-MG vs Corinthians" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png" group-title="⚽ Bóng Đá",[06:00 26/11] Atletico-MG vs Corinthians (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Atletico-MG vs Corinthians" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png" group-title="⚽ Bóng Đá",[06:00 26/11] Atletico-MG vs Corinthians (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Atletico-MG vs Corinthians" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125542_d8ff9d63.png" group-title="⚽ Bóng Đá",[06:00 26/11] Atletico-MG vs Corinthians (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Nhỏ) [HD1]
+#EXTINF:-1 tvg-name="South Melbourne vs Oakleigh Cannons" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png" group-title="⚽ Bóng Đá",[15:30 26/11] South Melbourne vs Oakleigh Cannons (Chuối Nhỏ) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Nhỏ) [HD2]
+#EXTINF:-1 tvg-name="South Melbourne vs Oakleigh Cannons" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png" group-title="⚽ Bóng Đá",[15:30 26/11] South Melbourne vs Oakleigh Cannons (Chuối Nhỏ) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Nhỏ) [FHD]
+#EXTINF:-1 tvg-name="South Melbourne vs Oakleigh Cannons" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_141355_3745ec34.png" group-title="⚽ Bóng Đá",[15:30 26/11] South Melbourne vs Oakleigh Cannons (Chuối Nhỏ) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Tây) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Tây) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Tây) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Atletico Nacional vs Independiente Medellín" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" group-title="⚽ Bóng Đá",[08:30 26/11] Atletico Nacional vs Independiente Medellín (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Atletico Nacional vs Independiente Medellín" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" group-title="⚽ Bóng Đá",[08:30 26/11] Atletico Nacional vs Independiente Medellín (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Atletico Nacional vs Independiente Medellín" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133535_bc746ccd.png" group-title="⚽ Bóng Đá",[08:30 26/11] Atletico Nacional vs Independiente Medellín (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Gangwon FC vs Kitchee" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133953_652c3ab3.png" group-title="⚽ Bóng Đá",[17:00 26/11] Gangwon FC vs Kitchee (Chuối Tây) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
@@ -80,6 +44,33 @@ https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilua/playlist.m3u8|Re
 #EXTINF:-1 tvg-name="Svay Rieng vs Machida Zelvia" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_133319_d10a6439.png" group-title="⚽ Bóng Đá",[19:15 26/11] Svay Rieng vs Machida Zelvia (Chuối Lửa) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoiluahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Già) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Già) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Già) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Nhỏ) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Nhỏ) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Nhỏ) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Tây) [HD1]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Tây) [HD2]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
+#EXTINF:-1 tvg-name="Vietnam U17 vs Mali U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_145023_6270222c.png" group-title="⚽ Bóng Đá",[20:00 26/11] Vietnam U17 vs Mali U17 (Chuối Tây) [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://gckc0525.edgemaxcdn.org/live/chuoitayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Morocco U17 vs Spain U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134349_56274e6a.png" group-title="⚽ Bóng Đá",[22:00 26/11] Morocco U17 vs Spain U17 (Chuối Kem) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
