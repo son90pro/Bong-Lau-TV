@@ -1,67 +1,13 @@
 #EXTM3U x-tvg-url="" url-tvg="" tvg-shift="0" refreshrate="30"
-#EXTINF:-1 tvg-name="Nam Dinh vs Công An Hà Nội" tvg-logo="https://media.chuoichientv.net/media/20251204_035149_f918db1e.png" group-title="⚽ Bóng Đá",[18:00 27/11] Nam Dinh vs Công An Hà Nội (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Nam Dinh vs Công An Hà Nội" tvg-logo="https://media.chuoichientv.net/media/20251204_035149_f918db1e.png" group-title="⚽ Bóng Đá",[18:00 27/11] Nam Dinh vs Công An Hà Nội (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Nam Dinh vs Công An Hà Nội" tvg-logo="https://media.chuoichientv.net/media/20251204_035149_f918db1e.png" group-title="⚽ Bóng Đá",[18:00 27/11] Nam Dinh vs Công An Hà Nội (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Song Lam Nghe An vs Ninh Bình FC" tvg-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="⚽ Bóng Đá",[18:00 27/11] Song Lam Nghe An vs Ninh Bình FC (Chuối Kem) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Song Lam Nghe An vs Ninh Bình FC" tvg-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="⚽ Bóng Đá",[18:00 27/11] Song Lam Nghe An vs Ninh Bình FC (Chuối Kem) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Song Lam Nghe An vs Ninh Bình FC" tvg-logo="https://media.chuoichientv.net/media/20250817_040514_e14149ab.png" group-title="⚽ Bóng Đá",[18:00 27/11] Song Lam Nghe An vs Ninh Bình FC (Chuối Kem) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoikemhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Honduras U17 vs Japan U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144939_f9d1bb80.png" group-title="⚽ Bóng Đá",[20:00 27/11] Honduras U17 vs Japan U17 (Chuối Lá) [HD1]
+#EXTINF:-1 tvg-name="Werder Bremen vs Borussia Mönchengladbach" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125554_076ca6ba.png" group-title="⚽ Bóng Đá",[02:30 28/11] Werder Bremen vs Borussia Mönchengladbach (Chuối Lá) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Honduras U17 vs Japan U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144939_f9d1bb80.png" group-title="⚽ Bóng Đá",[20:00 27/11] Honduras U17 vs Japan U17 (Chuối Lá) [HD2]
+#EXTINF:-1 tvg-name="Werder Bremen vs Borussia Mönchengladbach" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125554_076ca6ba.png" group-title="⚽ Bóng Đá",[02:30 28/11] Werder Bremen vs Borussia Mönchengladbach (Chuối Lá) [HD2]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Honduras U17 vs Japan U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144939_f9d1bb80.png" group-title="⚽ Bóng Đá",[20:00 27/11] Honduras U17 vs Japan U17 (Chuối Lá) [FHD]
+#EXTINF:-1 tvg-name="Werder Bremen vs Borussia Mönchengladbach" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125554_076ca6ba.png" group-title="⚽ Bóng Đá",[02:30 28/11] Werder Bremen vs Borussia Mönchengladbach (Chuối Lá) [FHD]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoilahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Costa Rica U17 vs Brazil U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144936_80ee8c4e.png" group-title="⚽ Bóng Đá",[21:00 27/11] Costa Rica U17 vs Brazil U17 (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Costa Rica U17 vs Brazil U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144936_80ee8c4e.png" group-title="⚽ Bóng Đá",[21:00 27/11] Costa Rica U17 vs Brazil U17 (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Costa Rica U17 vs Brazil U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144936_80ee8c4e.png" group-title="⚽ Bóng Đá",[21:00 27/11] Costa Rica U17 vs Brazil U17 (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al-Qadisiyah FC vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_4cd99b1a.png" group-title="⚽ Bóng Đá",[21:20 27/11] Al-Qadisiyah FC vs Al-Fayha (Chuối Già) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al-Qadisiyah FC vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_4cd99b1a.png" group-title="⚽ Bóng Đá",[21:20 27/11] Al-Qadisiyah FC vs Al-Fayha (Chuối Già) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al-Qadisiyah FC vs Al-Fayha" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134002_4cd99b1a.png" group-title="⚽ Bóng Đá",[21:20 27/11] Al-Qadisiyah FC vs Al-Fayha (Chuối Già) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoigiahd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Romania U17 vs Cameroon U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144546_67d411b7.png" group-title="⚽ Bóng Đá",[23:00 27/11] Romania U17 vs Cameroon U17 (Chuối Sấy) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Romania U17 vs Cameroon U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144546_67d411b7.png" group-title="⚽ Bóng Đá",[23:00 27/11] Romania U17 vs Cameroon U17 (Chuối Sấy) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Romania U17 vs Cameroon U17" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_144546_67d411b7.png" group-title="⚽ Bóng Đá",[23:00 27/11] Romania U17 vs Cameroon U17 (Chuối Sấy) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoisayhd/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al-Ittihad FC vs Al Neom" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png" group-title="⚽ Bóng Đá",[00:30 28/11] Al-Ittihad FC vs Al Neom (Chuối Nhỏ) [HD1]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al-Ittihad FC vs Al Neom" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png" group-title="⚽ Bóng Đá",[00:30 28/11] Al-Ittihad FC vs Al Neom (Chuối Nhỏ) [HD2]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinho/playlist.m3u8|Referer=https://live.chuoichien.tv/
-#EXTINF:-1 tvg-name="Al-Ittihad FC vs Al Neom" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_134004_7d88a6fc.png" group-title="⚽ Bóng Đá",[00:30 28/11] Al-Ittihad FC vs Al Neom (Chuối Nhỏ) [FHD]
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
-https://gckc0525.edgemaxcdn.org/live/chuoinhohd/playlist.m3u8|Referer=https://live.chuoichien.tv/
 #EXTINF:-1 tvg-name="Venezia vs Bologna" tvg-logo="https://media.chuoichientv.net/media/uploads/20250623_125606_728d64e5.png" group-title="⚽ Bóng Đá",[02:45 28/11] Venezia vs Bologna (Chuối Chao) [HD1]
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8|Referer=https://live.chuoichien.tv/
